@@ -1,0 +1,7448 @@
+[
+  {
+    "Employee Name": "Brown,Michelle N",
+    "Job Title": "Academic Advising & Career Exploration Assistant D",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,478.45"
+  },
+  {
+    "Employee Name": "Griffin,Patricia L",
+    "Job Title": "Academic Advising & Career Exploration Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$78,972.48"
+  },
+  {
+    "Employee Name": "Armstrong,Micki A",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,583.26"
+  },
+  {
+    "Employee Name": "Fitzhugh,Nanette J",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$56,789.45"
+  },
+  {
+    "Employee Name": "Frank,Amanda D",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,717.80"
+  },
+  {
+    "Employee Name": "Hernandez,Kristin R",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,819.48"
+  },
+  {
+    "Employee Name": "Hutchison,Hayden T",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,539.70"
+  },
+  {
+    "Employee Name": "Johansen,Vicki D",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$37,283.35"
+  },
+  {
+    "Employee Name": "Johnson,Stephanie A",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,301.02"
+  },
+  {
+    "Employee Name": "Leiker,Dawne P",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,514.19"
+  },
+  {
+    "Employee Name": "Maska,Megan L",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$391.71",
+    "Total Gross Pay": "$33,234.04"
+  },
+  {
+    "Employee Name": "Meininger,Kristine R",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,884.38"
+  },
+  {
+    "Employee Name": "Newell,Rebecca L",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,487.08"
+  },
+  {
+    "Employee Name": "Perryman,Janelle L",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,098.16"
+  },
+  {
+    "Employee Name": "Prickett,Stacy K",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,378.00"
+  },
+  {
+    "Employee Name": "Terry,Troy A",
+    "Job Title": "Academic Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$44,102.20"
+  },
+  {
+    "Employee Name": "DeWild,Staci K",
+    "Job Title": "Academic Program Specialist",
+    "Overtime Pay": "$101.66",
+    "Total Gross Pay": "$31,180.06"
+  },
+  {
+    "Employee Name": "Fox,Tiffany L",
+    "Job Title": "Academic Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,612.83"
+  },
+  {
+    "Employee Name": "Staab,Dorothy M",
+    "Job Title": "Academic Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,865.62"
+  },
+  {
+    "Employee Name": "Strack,Katelyn M",
+    "Job Title": "Academic Program Specialist",
+    "Overtime Pay": "$118.13",
+    "Total Gross Pay": "$30,716.53"
+  },
+  {
+    "Employee Name": "Beckman,Andi S",
+    "Job Title": "Academic Program Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,912.05"
+  },
+  {
+    "Employee Name": "Ostrom,Lesley A.",
+    "Job Title": "Academic Program Specialist - USS",
+    "Overtime Pay": "$540.89",
+    "Total Gross Pay": "$34,452.91"
+  },
+  {
+    "Employee Name": "Briggs,Joleen M",
+    "Job Title": "Academic Services Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,349.12"
+  },
+  {
+    "Employee Name": "Staab,Debra J",
+    "Job Title": "Academic Services Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$71,016.91"
+  },
+  {
+    "Employee Name": "Pfeifer,Jennifer R",
+    "Job Title": "Accessibility Services Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,600.94"
+  },
+  {
+    "Employee Name": "Moore,Staci R",
+    "Job Title": "Accountant",
+    "Overtime Pay": "$52.84",
+    "Total Gross Pay": "$32,758.51"
+  },
+  {
+    "Employee Name": "Shubert,Cheryl M",
+    "Job Title": "Accountant",
+    "Overtime Pay": "$3,272.54",
+    "Total Gross Pay": "$45,068.21"
+  },
+  {
+    "Employee Name": "Elsen,Cory D",
+    "Job Title": "Accounting Manager",
+    "Overtime Pay": "$160.53",
+    "Total Gross Pay": "$37,372.56"
+  },
+  {
+    "Employee Name": "Duran,Mariela Andrea",
+    "Job Title": "Accounting Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,972.01"
+  },
+  {
+    "Employee Name": "Pfannenstiel,Kelsi J",
+    "Job Title": "Accounting Specialist",
+    "Overtime Pay": "$265.62",
+    "Total Gross Pay": "$32,186.90"
+  },
+  {
+    "Employee Name": "Vandergiesen,Kara A",
+    "Job Title": "Accounting Specialist",
+    "Overtime Pay": "$37.34",
+    "Total Gross Pay": "$34,707.82"
+  },
+  {
+    "Employee Name": "Weber,Tiffany S",
+    "Job Title": "Accounting Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,480.13"
+  },
+  {
+    "Employee Name": "Weigel,Raeleann R",
+    "Job Title": "Accounting Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,172.77"
+  },
+  {
+    "Employee Name": "Boxberger,Kristal M",
+    "Job Title": "Accounting Specialist - USS",
+    "Overtime Pay": "$64.10",
+    "Total Gross Pay": "$36,821.05"
+  },
+  {
+    "Employee Name": "Brown,Joan E",
+    "Job Title": "Accounting Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,483.24"
+  },
+  {
+    "Employee Name": "Radke,Kathleen M",
+    "Job Title": "Accounting Specialist - USS",
+    "Overtime Pay": "$93.45",
+    "Total Gross Pay": "$34,487.79"
+  },
+  {
+    "Employee Name": "Paneno,Mitchell A",
+    "Job Title": "Activity Leader",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,456.89"
+  },
+  {
+    "Employee Name": "Schlegel,Lisa M",
+    "Job Title": "Activity Leader",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,260.16"
+  },
+  {
+    "Employee Name": "Winter,Carmen R",
+    "Job Title": "Activity Leader",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,338.82"
+  },
+  {
+    "Employee Name": "Brantley,Jarrod M",
+    "Job Title": "Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,980.00"
+  },
+  {
+    "Employee Name": "Holzmeister,Sarah L",
+    "Job Title": "Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$22,924.05"
+  },
+  {
+    "Employee Name": "Kincaid,Amber J",
+    "Job Title": "Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,657.67"
+  },
+  {
+    "Employee Name": "Smith,Jetta A",
+    "Job Title": "Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$497.25"
+  },
+  {
+    "Employee Name": "Wooldridge,Brianna M",
+    "Job Title": "Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,912.26"
+  },
+  {
+    "Employee Name": "Apostolas,Margo A",
+    "Job Title": "Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$426.08"
+  },
+  {
+    "Employee Name": "Espino,Judy",
+    "Job Title": "Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,539.20"
+  },
+  {
+    "Employee Name": "Hunziker,Christine C",
+    "Job Title": "Administrative Assistant - USS",
+    "Overtime Pay": "$1,011.74",
+    "Total Gross Pay": "$33,842.15"
+  },
+  {
+    "Employee Name": "McCullick,Patricia J",
+    "Job Title": "Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,684.80"
+  },
+  {
+    "Employee Name": "Buchholz,Jacy L",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$45.18",
+    "Total Gross Pay": "$1,249.98"
+  },
+  {
+    "Employee Name": "Dinges,Stephanie C",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$184.80",
+    "Total Gross Pay": "$22,504.80"
+  },
+  {
+    "Employee Name": "Dreher,Sara J",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,072.01"
+  },
+  {
+    "Employee Name": "Johnson,Kathay L",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,249.60"
+  },
+  {
+    "Employee Name": "Kohl,Janet A",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,597.30"
+  },
+  {
+    "Employee Name": "Kreutzer,Cody J",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,003.06"
+  },
+  {
+    "Employee Name": "Kreutzer,Jessica R",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,273.60"
+  },
+  {
+    "Employee Name": "Mindrup,Maureen",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,705.64"
+  },
+  {
+    "Employee Name": "Norton,Ashley R",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$179.49",
+    "Total Gross Pay": "$32,314.02"
+  },
+  {
+    "Employee Name": "Rebel,Holly S",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,390.40"
+  },
+  {
+    "Employee Name": "Rogers,Falynn R",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,468.81"
+  },
+  {
+    "Employee Name": "Roth,Emily M",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,468.80"
+  },
+  {
+    "Employee Name": "Rux,Margaret H",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$158.13",
+    "Total Gross Pay": "$3,772.53"
+  },
+  {
+    "Employee Name": "Schiel,Tina L",
+    "Job Title": "Administrative Specialist",
+    "Overtime Pay": "$71.28",
+    "Total Gross Pay": "$33,172.08"
+  },
+  {
+    "Employee Name": "Fisher,Kaleen M.",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,576.10"
+  },
+  {
+    "Employee Name": "Kahrs,Jana L",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,390.43"
+  },
+  {
+    "Employee Name": "Klein,Amy L",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,459.42"
+  },
+  {
+    "Employee Name": "Kohl,Marnie L.",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,739.20"
+  },
+  {
+    "Employee Name": "McGuire,Sheila K",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$52.95",
+    "Total Gross Pay": "$36,574.62"
+  },
+  {
+    "Employee Name": "Ottley,Lynette R",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,187.34"
+  },
+  {
+    "Employee Name": "Ricke,Amanda R.",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,148.81"
+  },
+  {
+    "Employee Name": "Schuler,Debra S",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$37,372.80"
+  },
+  {
+    "Employee Name": "Schuster,Mildred A",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,436.91"
+  },
+  {
+    "Employee Name": "Shank,Jessica R",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,057.60"
+  },
+  {
+    "Employee Name": "Stricker,Sandra K",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,577.78"
+  },
+  {
+    "Employee Name": "Weigel,Cynthia",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$141.30",
+    "Total Gross Pay": "$39,510.90"
+  },
+  {
+    "Employee Name": "Winters,Tamatha L",
+    "Job Title": "Administrative Specialist - USS",
+    "Overtime Pay": "$56.73",
+    "Total Gross Pay": "$39,176.74"
+  },
+  {
+    "Employee Name": "Anderson,Abby E",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,442.88"
+  },
+  {
+    "Employee Name": "Dixon,Dallas C",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,562.38"
+  },
+  {
+    "Employee Name": "Gomes,Haley N",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,906.41"
+  },
+  {
+    "Employee Name": "Hindman,Katherine J",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,388.85"
+  },
+  {
+    "Employee Name": "Jackson,Chelsea F",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,000.00"
+  },
+  {
+    "Employee Name": "Reddig,Tiffany D",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,152.57"
+  },
+  {
+    "Employee Name": "Reyes Alvarado,Haydee P",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$500.00"
+  },
+  {
+    "Employee Name": "Robson,Ang",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,684.65"
+  },
+  {
+    "Employee Name": "Stacken,Kyle A",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,920.41"
+  },
+  {
+    "Employee Name": "Tatro,Carolyn A",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,991.54"
+  },
+  {
+    "Employee Name": "Taylor,Brandon S",
+    "Job Title": "Admissions Recruiter/Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$37,451.23"
+  },
+  {
+    "Employee Name": "King,Melanie L",
+    "Job Title": "Advanced Registered Nurse Practitioner - Regular",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$74,296.18"
+  },
+  {
+    "Employee Name": "Dwyer,MaryPat",
+    "Job Title": "Advanced Registered Nurse Practitioner - Temporary",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,930.00"
+  },
+  {
+    "Employee Name": "States,Ryan A",
+    "Job Title": "Agricultural Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$572.63"
+  },
+  {
+    "Employee Name": "Werth,Harland L",
+    "Job Title": "Agricultural Specialist - USS",
+    "Overtime Pay": "$14,406.60",
+    "Total Gross Pay": "$53,469.34"
+  },
+  {
+    "Employee Name": "Prideaux,Debra K",
+    "Job Title": "Alumni Program Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$100,680.87"
+  },
+  {
+    "Employee Name": "Billinger,Jeanette L",
+    "Job Title": "Alumni Program Specialist - USS",
+    "Overtime Pay": "$1,037.52",
+    "Total Gross Pay": "$37,538.32"
+  },
+  {
+    "Employee Name": "Lang,Lisa",
+    "Job Title": "Alumni Program Specialist - USS",
+    "Overtime Pay": "$964.98",
+    "Total Gross Pay": "$38,244.98"
+  },
+  {
+    "Employee Name": "Cline,Erica S",
+    "Job Title": "Applications Developer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,115.55"
+  },
+  {
+    "Employee Name": "Goodrow,William S",
+    "Job Title": "Applications Developer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,946.82"
+  },
+  {
+    "Employee Name": "Reed,Logan T",
+    "Job Title": "Applications Developer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,946.65"
+  },
+  {
+    "Employee Name": "Sheets,Phillip K",
+    "Job Title": "Applications Developer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,946.96"
+  },
+  {
+    "Employee Name": "Steiner,Troy J.",
+    "Job Title": "Architect",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,531.45"
+  },
+  {
+    "Employee Name": "Fisher,Erica A",
+    "Job Title": "Articulation Coordinator and Recruiter",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,626.03"
+  },
+  {
+    "Employee Name": "Sager,Shelby M",
+    "Job Title": "Asessment & Accredidation Assistant Program Direct",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,294.40"
+  },
+  {
+    "Employee Name": "Cook,Matthew J",
+    "Job Title": "Assistant Athletic Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,914.66"
+  },
+  {
+    "Employee Name": "Knight,Kegan D",
+    "Job Title": "Assistant Athletic Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,312.77"
+  },
+  {
+    "Employee Name": "Brown,Jeremy A",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,782.03"
+  },
+  {
+    "Employee Name": "Bryant,Jeffrey M",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$71,712.17"
+  },
+  {
+    "Employee Name": "Dudley,Steven R",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,520.17"
+  },
+  {
+    "Employee Name": "Eguae,Ikponmwosa I",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,577.31"
+  },
+  {
+    "Employee Name": "Graupmann,Jonathan H",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,461.94"
+  },
+  {
+    "Employee Name": "Harris,Andrew Cooper",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$82,065.46"
+  },
+  {
+    "Employee Name": "Kahrs,Talia Marie",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,740.30"
+  },
+  {
+    "Employee Name": "Lunsford,Paige N",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,161.20"
+  },
+  {
+    "Employee Name": "McCray,Albert",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,455.83"
+  },
+  {
+    "Employee Name": "Russell,Ross D",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,617.13"
+  },
+  {
+    "Employee Name": "Sanders,Jay T",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$28,923.53"
+  },
+  {
+    "Employee Name": "Thompson,Jennifer G",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,961.64"
+  },
+  {
+    "Employee Name": "Zoda,Austin S",
+    "Job Title": "Assistant Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$16,692.33"
+  },
+  {
+    "Employee Name": "Will,Bradley A",
+    "Job Title": "Assistant Dean/Assoc Prof",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$89,506.54"
+  },
+  {
+    "Employee Name": "Perez,Hugo",
+    "Job Title": "Assistant Director of Admissions",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,924.95"
+  },
+  {
+    "Employee Name": "Hill,Jodi",
+    "Job Title": "Assistant Director of Early College Programs",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$22,277.40"
+  },
+  {
+    "Employee Name": "Matlock,Sherri D",
+    "Job Title": "Assistant Director of Early College Programs",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,254.68"
+  },
+  {
+    "Employee Name": "Cokely,Shianne",
+    "Job Title": "Assistant Director of Transition, Inclusion and D",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$19,224.20"
+  },
+  {
+    "Employee Name": "Wolbert,Tina B",
+    "Job Title": "Assistant Director of Transition, Inclusion and D",
+    "Overtime Pay": "$268.25",
+    "Total Gross Pay": "$23,413.85"
+  },
+  {
+    "Employee Name": "Funk,Cory A",
+    "Job Title": "Assistant Network Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,142.40"
+  },
+  {
+    "Employee Name": "Agbogun,Henry",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$57,704.25"
+  },
+  {
+    "Employee Name": "Allen,William Edgar",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,590.04"
+  },
+  {
+    "Employee Name": "Ambardar,Medhavi",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,561.61"
+  },
+  {
+    "Employee Name": "Andersen,Gary G",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$82,368.65"
+  },
+  {
+    "Employee Name": "Arias,Alicia D",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,862.12"
+  },
+  {
+    "Employee Name": "Atwater,Bruce A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$57,262.65"
+  },
+  {
+    "Employee Name": "Balthazor,James R",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,300.72"
+  },
+  {
+    "Employee Name": "Bencze,Krisztina Z",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$56,960.24"
+  },
+  {
+    "Employee Name": "Benjamin,Donald R",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,476.00"
+  },
+  {
+    "Employee Name": "Bourgeois,Jeffrey S",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,753.59"
+  },
+  {
+    "Employee Name": "Bremer,Keith A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$89,318.79"
+  },
+  {
+    "Employee Name": "Byer,Sammuel Robert",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,685.92"
+  },
+  {
+    "Employee Name": "Carswell,Kendal J",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,038.55"
+  },
+  {
+    "Employee Name": "Chappell,Kimberly E",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$76,372.84"
+  },
+  {
+    "Employee Name": "Cole,Kelly A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,714.03"
+  },
+  {
+    "Employee Name": "Crawford,Betsy L",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$71,756.84"
+  },
+  {
+    "Employee Name": "Dalat Ward,Yaprak F",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,576.00"
+  },
+  {
+    "Employee Name": "Dawson,Bradley J",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$97,216.75"
+  },
+  {
+    "Employee Name": "DeLong,Jeremy C",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,723.25"
+  },
+  {
+    "Employee Name": "Donnelly,Stephen G",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,280.00"
+  },
+  {
+    "Employee Name": "Dowda,Reade L",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$77,315.25"
+  },
+  {
+    "Employee Name": "Drees,Patricia A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,944.57"
+  },
+  {
+    "Employee Name": "Du,Yan",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$103,834.07"
+  },
+  {
+    "Employee Name": "Du,Yuxiang",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,309.98"
+  },
+  {
+    "Employee Name": "Dunn,Thomas B",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,996.55"
+  },
+  {
+    "Employee Name": "Eckstrand,Nathan A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,713.42"
+  },
+  {
+    "Employee Name": "Engel,Cole J",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$138,802.55"
+  },
+  {
+    "Employee Name": "English,D Nicole",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$70,920.99"
+  },
+  {
+    "Employee Name": "Feldstein,Linda E",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$58,379.15"
+  },
+  {
+    "Employee Name": "Fox,Brendon C",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,347.12"
+  },
+  {
+    "Employee Name": "Glenn,Christina E",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,250.00"
+  },
+  {
+    "Employee Name": "Growe,Glenn A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$102,870.00"
+  },
+  {
+    "Employee Name": "Gubitoso,Mary Jo",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,538.50"
+  },
+  {
+    "Employee Name": "Harding,Janelle R",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,480.25"
+  },
+  {
+    "Employee Name": "Helens-Hart,Rose H",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$82,096.68"
+  },
+  {
+    "Employee Name": "Hourani,Anas A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,663.75"
+  },
+  {
+    "Employee Name": "Hwang,Jee H",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,774.50"
+  },
+  {
+    "Employee Name": "Isom,Elliot E",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$78,279.25"
+  },
+  {
+    "Employee Name": "Jiao,Yang",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,109.14"
+  },
+  {
+    "Employee Name": "Jordan Jr.,Randall W",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,619.52"
+  },
+  {
+    "Employee Name": "Kalbasi Anaraki,Nahid",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,356.34"
+  },
+  {
+    "Employee Name": "Kandt,D.Charmane",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,665.00"
+  },
+  {
+    "Employee Name": "Kastle,Seth D",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,464.64"
+  },
+  {
+    "Employee Name": "Keener,Robert J",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,590.00"
+  },
+  {
+    "Employee Name": "Keil,Shauna L",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,765.42"
+  },
+  {
+    "Employee Name": "Lancaster,Sarah M",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,247.50"
+  },
+  {
+    "Employee Name": "Landgraf,Bonnie J",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,737.52"
+  },
+  {
+    "Employee Name": "Langley,Elizabeth C",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,748.55"
+  },
+  {
+    "Employee Name": "Lee,Jung Hee",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$70,312.63"
+  },
+  {
+    "Employee Name": "Li,Qiang",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$60,290.75"
+  },
+  {
+    "Employee Name": "Lillpopp,Peter F",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,894.70"
+  },
+  {
+    "Employee Name": "Lloyd,Robert A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$113,418.02"
+  },
+  {
+    "Employee Name": "Loggins,Ginger Miller",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,832.38"
+  },
+  {
+    "Employee Name": "Lubin,Jacqueline",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$73,638.63"
+  },
+  {
+    "Employee Name": "Macias,Marco A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,457.04"
+  },
+  {
+    "Employee Name": "Maska,Nancy Lynn",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$70,648.95"
+  },
+  {
+    "Employee Name": "Mehaffey-Kultgen,Candace M",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$98,062.88"
+  },
+  {
+    "Employee Name": "Miles,Helen M",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$113,603.47"
+  },
+  {
+    "Employee Name": "Miller,Sarah EB",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$90,422.23"
+  },
+  {
+    "Employee Name": "Mitra,Sarbari",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,013.20"
+  },
+  {
+    "Employee Name": "Munsch,Kris G",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$65,506.38"
+  },
+  {
+    "Employee Name": "Nguyen,Hung Q",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,314.29"
+  },
+  {
+    "Employee Name": "Nishi,Hirofumi",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$113,552.50"
+  },
+  {
+    "Employee Name": "Ochs,Dorothy",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$93,744.33"
+  },
+  {
+    "Employee Name": "Ofori-Mensah,Kwadwo H",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$129,908.20"
+  },
+  {
+    "Employee Name": "Olds,Christopher P",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,883.25"
+  },
+  {
+    "Employee Name": "Olmstead,Edwin G",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,019.38"
+  },
+  {
+    "Employee Name": "Olt,Phillip A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,994.03"
+  },
+  {
+    "Employee Name": "Pinion,Geraldine A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,499.60"
+  },
+  {
+    "Employee Name": "Post,Tracey K",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,561.28"
+  },
+  {
+    "Employee Name": "Qi,Ziwei",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,946.09"
+  },
+  {
+    "Employee Name": "Reed,Brittney R",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,782.00"
+  },
+  {
+    "Employee Name": "Rohleder-Sook,Wendy M",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,954.04"
+  },
+  {
+    "Employee Name": "Rohlf,Ronald C",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,014.34"
+  },
+  {
+    "Employee Name": "Schartz,Shane",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$107,804.56"
+  },
+  {
+    "Employee Name": "Schmidt,David E",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$91,673.24"
+  },
+  {
+    "Employee Name": "Scott,Robert B",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,257.12"
+  },
+  {
+    "Employee Name": "Sevak,Kunal Y",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$88,752.40"
+  },
+  {
+    "Employee Name": "Smalley,Matthew R",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,875.46"
+  },
+  {
+    "Employee Name": "Smith,James M",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$83,674.00"
+  },
+  {
+    "Employee Name": "Splichal,Kevin L",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$79,105.51"
+  },
+  {
+    "Employee Name": "Steele,Morgan James",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,359.04"
+  },
+  {
+    "Employee Name": "Steinmetz,John D",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$57,858.00"
+  },
+  {
+    "Employee Name": "Stewart,Nicholas B",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,307.76"
+  },
+  {
+    "Employee Name": "Sumrall,Jonathan B",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$90,482.63"
+  },
+  {
+    "Employee Name": "Terry,April N",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$83,858.49"
+  },
+  {
+    "Employee Name": "Thal,Karen I",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$82,751.31"
+  },
+  {
+    "Employee Name": "Tostenson,David N",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,344.88"
+  },
+  {
+    "Employee Name": "Tramel,Peter H",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$60,943.26"
+  },
+  {
+    "Employee Name": "Tucker,Andrew N",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$90,050.51"
+  },
+  {
+    "Employee Name": "Van Der Wege,Michelle L",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$89,358.22"
+  },
+  {
+    "Employee Name": "Vu,Hieu D",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,598.49"
+  },
+  {
+    "Employee Name": "Weber Jr.,William J",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,989.50"
+  },
+  {
+    "Employee Name": "Weimer,Rhonda J",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$83,301.87"
+  },
+  {
+    "Employee Name": "Werth,Natasha M",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$70,108.39"
+  },
+  {
+    "Employee Name": "Whitaker,Whitney K",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$78,498.57"
+  },
+  {
+    "Employee Name": "Winchester,Juti A",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,248.28"
+  },
+  {
+    "Employee Name": "Yang,Jun",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$89,558.00"
+  },
+  {
+    "Employee Name": "Yu,Valerie L",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$78,660.62"
+  },
+  {
+    "Employee Name": "Zeller,Jana J",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,727.97"
+  },
+  {
+    "Employee Name": "Zeller,Jason L",
+    "Job Title": "Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,229.03"
+  },
+  {
+    "Employee Name": "Nichols,Charlene A",
+    "Job Title": "Assistant Program Director Alumni",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,314.15"
+  },
+  {
+    "Employee Name": "Feldstein,Andrew P",
+    "Job Title": "Assistant Provost",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$120,093.94"
+  },
+  {
+    "Employee Name": "Elliott,Cynthia A",
+    "Job Title": "Assistant VP for Global Partnerships",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$119,677.86"
+  },
+  {
+    "Employee Name": "Min,Sangki",
+    "Job Title": "Assistant VP for Institutional Effectiveness and Q",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$115,498.56"
+  },
+  {
+    "Employee Name": "Griffin,Mark A",
+    "Job Title": "Assistant VP of Information Technology and CIO",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$113,472.70"
+  },
+  {
+    "Employee Name": "Clounch,Teresa L",
+    "Job Title": "Assistant VP, Student Affairs and Compliance",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$106,338.65"
+  },
+  {
+    "Employee Name": "Kriley,Taylor L",
+    "Job Title": "Assistant VP, Student Affairs Student Engagement",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,130.19"
+  },
+  {
+    "Employee Name": "Haynes,Bradley E",
+    "Job Title": "Associate Athletic Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,904.86"
+  },
+  {
+    "Employee Name": "Bradstreet,Dustin E",
+    "Job Title": "Associate Athletic Trainer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,962.25"
+  },
+  {
+    "Employee Name": "Depenbusch,Rachel M.",
+    "Job Title": "Associate Controller",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$84,137.48"
+  },
+  {
+    "Employee Name": "Ali,Hendratta N",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$102,996.60"
+  },
+  {
+    "Employee Name": "Allen,Ivalah J",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$65,099.14"
+  },
+  {
+    "Employee Name": "Andrews,Laura J",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,872.97"
+  },
+  {
+    "Employee Name": "Bartlett,Lexey Anne",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,085.00"
+  },
+  {
+    "Employee Name": "Becking,Suzanne K",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$88,454.33"
+  },
+  {
+    "Employee Name": "Beiker,Christa R",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$77,767.98"
+  },
+  {
+    "Employee Name": "Bhoumik,Soumya",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,500.25"
+  },
+  {
+    "Employee Name": "Breit,Emily S.",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$139,781.38"
+  },
+  {
+    "Employee Name": "Carlson,Gordon S",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$58,839.56"
+  },
+  {
+    "Employee Name": "Castaneda,Rosa Maria",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$86,723.60"
+  },
+  {
+    "Employee Name": "Chretien,Joseph R",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$90,835.26"
+  },
+  {
+    "Employee Name": "Clark,Clifton D",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$86,914.21"
+  },
+  {
+    "Employee Name": "Crull,Terry A",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,614.97"
+  },
+  {
+    "Employee Name": "Deneault,Eric L",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$78,181.30"
+  },
+  {
+    "Employee Name": "Deyo,Eric C",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$85,463.01"
+  },
+  {
+    "Employee Name": "Dorn,Loretta T",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,384.12"
+  },
+  {
+    "Employee Name": "Drabkin,Douglas M",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,619.68"
+  },
+  {
+    "Employee Name": "Ellis,Carol M",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$71,873.10"
+  },
+  {
+    "Employee Name": "Ellis,Joyce A",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$91,267.36"
+  },
+  {
+    "Employee Name": "Espino-Bravo,Maria de la Concepcion",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$81,460.09"
+  },
+  {
+    "Employee Name": "Flores,Tobias R",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,637.66"
+  },
+  {
+    "Employee Name": "Gabel,Anthony L",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$91,206.39"
+  },
+  {
+    "Employee Name": "George,Babu",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$109,695.61"
+  },
+  {
+    "Employee Name": "Greenleaf,Justin P",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$74,747.74"
+  },
+  {
+    "Employee Name": "Greer,Mitchell J",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,520.37"
+  },
+  {
+    "Employee Name": "Hamlin,Darrell A",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,134.62"
+  },
+  {
+    "Employee Name": "Herrman,Leo P",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$70,291.08"
+  },
+  {
+    "Employee Name": "Howell,Brittany J",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,710.08"
+  },
+  {
+    "Employee Name": "Jones,Elodie J",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$73,802.54"
+  },
+  {
+    "Employee Name": "Jordan,B Jeffrey",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,808.67"
+  },
+  {
+    "Employee Name": "Kobayashi,Yasuhiro",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$70,592.48"
+  },
+  {
+    "Employee Name": "Maricle,Brian R",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,843.10"
+  },
+  {
+    "Employee Name": "Martin,Michael J",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$103,332.96"
+  },
+  {
+    "Employee Name": "Maseberg,Jack W",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$76,310.83"
+  },
+  {
+    "Employee Name": "McGonigal,Kathryn L",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$91,558.75"
+  },
+  {
+    "Employee Name": "Meade,Michael F",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$65,434.29"
+  },
+  {
+    "Employee Name": "Naylor-Tincknell,Janett M",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$96,137.86"
+  },
+  {
+    "Employee Name": "Nienkamp,Paul K",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$57,570.50"
+  },
+  {
+    "Employee Name": "Ofcarcik,Jenny J",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,975.13"
+  },
+  {
+    "Employee Name": "Olliff,Kenton L",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$124,605.61"
+  },
+  {
+    "Employee Name": "Orth,Denise K",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$73,222.27"
+  },
+  {
+    "Employee Name": "Park,Jisook A",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$77,931.08"
+  },
+  {
+    "Employee Name": "Perez,Kimberly E",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,137.14"
+  },
+  {
+    "Employee Name": "Perniciaro,Joseph C",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$64,903.49"
+  },
+  {
+    "Employee Name": "Pisano,Kristin L.",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$93,570.96"
+  },
+  {
+    "Employee Name": "Ravitskaya,Irena A",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,426.00"
+  },
+  {
+    "Employee Name": "Renfrow,Duane A",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$93,179.20"
+  },
+  {
+    "Employee Name": "Rigler,Kenneth L",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$83,438.42"
+  },
+  {
+    "Employee Name": "Rolls,Timothy M",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$58,865.34"
+  },
+  {
+    "Employee Name": "Schafer,Thomas C",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$87,801.31"
+  },
+  {
+    "Employee Name": "Schleicher,Stephen F",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$56,083.25"
+  },
+  {
+    "Employee Name": "Schreyer,Samuel M",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$116,938.55"
+  },
+  {
+    "Employee Name": "Shaffer,Kevin A",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$103,674.97"
+  },
+  {
+    "Employee Name": "Shepherd,Duane L",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$96,076.33"
+  },
+  {
+    "Employee Name": "Smith,Tanya L",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$106,397.59"
+  },
+  {
+    "Employee Name": "Stramel,Janet Kay",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$88,492.29"
+  },
+  {
+    "Employee Name": "Swanson,Brian A",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,149.56"
+  },
+  {
+    "Employee Name": "Tam,Kwong Yin",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$107,693.20"
+  },
+  {
+    "Employee Name": "Ward,James G",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$81,508.99"
+  },
+  {
+    "Employee Name": "Ward,Kathleen R",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$88,075.39"
+  },
+  {
+    "Employee Name": "Weisenborn,Gregory H",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$101,945.27"
+  },
+  {
+    "Employee Name": "Yang,Hsin-Yen",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,570.50"
+  },
+  {
+    "Employee Name": "Zelenka,Valerie L",
+    "Job Title": "Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$75,749.86"
+  },
+  {
+    "Employee Name": "Crowley,Timothy R",
+    "Job Title": "Associate Provost for Academic Affairs",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$127,205.29"
+  },
+  {
+    "Employee Name": "King,Dennis H",
+    "Job Title": "Associate VP, Student Affairs and Enrollment Mana",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$119,587.55"
+  },
+  {
+    "Employee Name": "Lindsey,Carlee J",
+    "Job Title": "Athletic Trainer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,368.43"
+  },
+  {
+    "Employee Name": "Balman,Dixie D",
+    "Job Title": "Athletics Academic Affairs Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,565.85"
+  },
+  {
+    "Employee Name": "Hammeke,Curtis J",
+    "Job Title": "Athletics Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$115,804.48"
+  },
+  {
+    "Employee Name": "Neuburger,Tobi J",
+    "Job Title": "Athletics Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,891.25"
+  },
+  {
+    "Employee Name": "Bitikofer,Jeffrey A",
+    "Job Title": "Audio Visual Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,231.38"
+  },
+  {
+    "Employee Name": "Debes,Anna C",
+    "Job Title": "Auditor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,464.84"
+  },
+  {
+    "Employee Name": "Gross,Beverly A",
+    "Job Title": "Budget & Planning Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,716.96"
+  },
+  {
+    "Employee Name": "Manry,Robert J",
+    "Job Title": "Budget and Planning Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$104,408.53"
+  },
+  {
+    "Employee Name": "Pfeifer,Terry J.",
+    "Job Title": "Building and Maintenance Operations Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,935.22"
+  },
+  {
+    "Employee Name": "Helget,James D",
+    "Job Title": "Buildings Maintenance Manager - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,374.84"
+  },
+  {
+    "Employee Name": "Schmeidler,Cheryl I",
+    "Job Title": "Campus Operations Program Specialist - USS",
+    "Overtime Pay": "$511.38",
+    "Total Gross Pay": "$49,380.33"
+  },
+  {
+    "Employee Name": "Haag,Ronald A",
+    "Job Title": "Campus Recreation / Intramural Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,907.84"
+  },
+  {
+    "Employee Name": "Augustine,Ashley M",
+    "Job Title": "Campus Security Officer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$142.91"
+  },
+  {
+    "Employee Name": "Augustine,Mark D",
+    "Job Title": "Campus Security Officer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,544.74"
+  },
+  {
+    "Employee Name": "Bucher,Daniel E",
+    "Job Title": "Campus Security Officer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$857.43"
+  },
+  {
+    "Employee Name": "Cole,Jason T",
+    "Job Title": "Campus Security Officer",
+    "Overtime Pay": "$634.44",
+    "Total Gross Pay": "$36,080.56"
+  },
+  {
+    "Employee Name": "Helget,Jake R",
+    "Job Title": "Campus Security Officer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$857.43"
+  },
+  {
+    "Employee Name": "Tottle,Matthew",
+    "Job Title": "Campus Security Officer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$571.62"
+  },
+  {
+    "Employee Name": "Wendelburg,Mark T",
+    "Job Title": "Campus Security Officer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$489.96"
+  },
+  {
+    "Employee Name": "Karlin,Lisa M",
+    "Job Title": "Career Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$74,378.40"
+  },
+  {
+    "Employee Name": "Dinkel,Nicole L",
+    "Job Title": "Career Advisor - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,502.40"
+  },
+  {
+    "Employee Name": "McCullough,Karen A",
+    "Job Title": "Career Services Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,287.49"
+  },
+  {
+    "Employee Name": "Fischer,Dahna",
+    "Job Title": "Carpenter - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$37,176.09"
+  },
+  {
+    "Employee Name": "Albin,Jessica K",
+    "Job Title": "Case Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,422.73"
+  },
+  {
+    "Employee Name": "Buffington,Gavin D",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$135,217.76"
+  },
+  {
+    "Employee Name": "Channell,Robert B",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$107,232.84"
+  },
+  {
+    "Employee Name": "Cline,Benjamin R",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$109,813.77"
+  },
+  {
+    "Employee Name": "Cranwell,Clyde D",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$95,219.60"
+  },
+  {
+    "Employee Name": "Cruz,Arvin J",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$91,783.46"
+  },
+  {
+    "Employee Name": "Davis,Timothy O",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$108,377.85"
+  },
+  {
+    "Employee Name": "Dreiling,Keith M",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$103,375.95"
+  },
+  {
+    "Employee Name": "Edgeman,Ricky L",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$132,844.45"
+  },
+  {
+    "Employee Name": "Goodlett,David E",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$86,454.00"
+  },
+  {
+    "Employee Name": "Gould,Lawrence V",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$141,308.54"
+  },
+  {
+    "Employee Name": "Hill,William T",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$85,394.04"
+  },
+  {
+    "Employee Name": "Hoopingarner,Brenda K",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$103,513.15"
+  },
+  {
+    "Employee Name": "Jochum,Christopher J",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$113,836.56"
+  },
+  {
+    "Employee Name": "Leuschner,Eric D",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$81,960.04"
+  },
+  {
+    "Employee Name": "Manry,Jenny A.",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$150,393.15"
+  },
+  {
+    "Employee Name": "Miller,Carl E",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$78,289.92"
+  },
+  {
+    "Employee Name": "Mohn,Mary Christine",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$91,682.58"
+  },
+  {
+    "Employee Name": "Porter,Karmen L",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$91,811.21"
+  },
+  {
+    "Employee Name": "Robson,Scott J",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,287.94"
+  },
+  {
+    "Employee Name": "Simpson Voth,Karrie L",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$103,326.28"
+  },
+  {
+    "Employee Name": "Smith,Stacey L",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$126,134.21"
+  },
+  {
+    "Employee Name": "Stewart,Kim M",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$110,765.93"
+  },
+  {
+    "Employee Name": "Toulaboe,Dosse",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$138,722.22"
+  },
+  {
+    "Employee Name": "Zollinger,Brett A",
+    "Job Title": "Chair",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$117,363.31"
+  },
+  {
+    "Employee Name": "Cason,Scott A",
+    "Job Title": "Chief Communications Officer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,000.00"
+  },
+  {
+    "Employee Name": "Carter,Matthias R",
+    "Job Title": "Classroom and Theatre Support Technician",
+    "Overtime Pay": "$7,738.14",
+    "Total Gross Pay": "$45,765.24"
+  },
+  {
+    "Employee Name": "Boucher,Douglas K",
+    "Job Title": "Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,405.43"
+  },
+  {
+    "Employee Name": "Rumford,Charles L",
+    "Job Title": "Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,184.58"
+  },
+  {
+    "Employee Name": "Storer,Douglas W",
+    "Job Title": "Computing Services Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$77,888.64"
+  },
+  {
+    "Employee Name": "Muench,Michael V",
+    "Job Title": "Computing Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,912.00"
+  },
+  {
+    "Employee Name": "Kuner,Jennifer S",
+    "Job Title": "Conference and Events Planner",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,769.06"
+  },
+  {
+    "Employee Name": "Meis,Janette L",
+    "Job Title": "Conference and Events Planner",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,699.52"
+  },
+  {
+    "Employee Name": "Drees,Michael J",
+    "Job Title": "Controller",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$91,169.83"
+  },
+  {
+    "Employee Name": "Cox,Britny M",
+    "Job Title": "Cooperative Education Program Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$24,962.34"
+  },
+  {
+    "Employee Name": "Atkins,Gregory J",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,584.00"
+  },
+  {
+    "Employee Name": "Barnett,Jessica R",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$416.67"
+  },
+  {
+    "Employee Name": "Bracelin,Brooklynn",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,567.69"
+  },
+  {
+    "Employee Name": "Clark,Sheila M",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,869.60"
+  },
+  {
+    "Employee Name": "Cone,Marjean A",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,156.68"
+  },
+  {
+    "Employee Name": "Cutright,Andrew B",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,461.79"
+  },
+  {
+    "Employee Name": "Davison,Shyla R",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,166.68"
+  },
+  {
+    "Employee Name": "Eberle,Mark E",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,726.88"
+  },
+  {
+    "Employee Name": "Grose,Logan H",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$500.00"
+  },
+  {
+    "Employee Name": "Higdon,Shelby",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,500.00"
+  },
+  {
+    "Employee Name": "Konrad,Arabelle",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$250.00"
+  },
+  {
+    "Employee Name": "Koonse,Misty J",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,384.18"
+  },
+  {
+    "Employee Name": "Lang,Madeleine E",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,200.00"
+  },
+  {
+    "Employee Name": "Launchbaugh,George G",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$24,297.02"
+  },
+  {
+    "Employee Name": "Lively,Joshua Ryan",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$570.00"
+  },
+  {
+    "Employee Name": "Luehrs,Robert B",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$13,313.00"
+  },
+  {
+    "Employee Name": "Madden,Theresa A",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$60,925.85"
+  },
+  {
+    "Employee Name": "Maricle,Keri L",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,400.00"
+  },
+  {
+    "Employee Name": "McGowne,Pamela J",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,858.20"
+  },
+  {
+    "Employee Name": "Montgomery,Samantha M",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,166.66"
+  },
+  {
+    "Employee Name": "Muth,Michelle J",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,050.00"
+  },
+  {
+    "Employee Name": "Porter,Marcus A",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,972.38"
+  },
+  {
+    "Employee Name": "Renk,Susan K",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,165.66"
+  },
+  {
+    "Employee Name": "Reuter,Dana M",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$516.67"
+  },
+  {
+    "Employee Name": "Roemer,Justin P",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,000.00"
+  },
+  {
+    "Employee Name": "Rohleder,Carin B",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,500.21"
+  },
+  {
+    "Employee Name": "Russell,Kenton E",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,342.40"
+  },
+  {
+    "Employee Name": "Schmidt,Brandon Thomas",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$300.00"
+  },
+  {
+    "Employee Name": "Steffen,Darrah D",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$17,437.00"
+  },
+  {
+    "Employee Name": "Tate,Marian K",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,200.00"
+  },
+  {
+    "Employee Name": "Tholstrup,Carrie B",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,743.11"
+  },
+  {
+    "Employee Name": "Wolf,Margaret J",
+    "Job Title": "Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,900.00"
+  },
+  {
+    "Employee Name": "Stieben,Darren E",
+    "Job Title": "Coordinator of Institutional Research",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$76,006.99"
+  },
+  {
+    "Employee Name": "Parrott,Ashley N",
+    "Job Title": "Coordinator of Student Athlete Academic Services",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,012.84"
+  },
+  {
+    "Employee Name": "Lang,Stacey L",
+    "Job Title": "Coordinator of Study Abroad and Exchange Programs",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,399.59"
+  },
+  {
+    "Employee Name": "Gannon,Andrew J",
+    "Job Title": "Coordinator of Wellness Center",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,372.72"
+  },
+  {
+    "Employee Name": "Birkey,Marlin K",
+    "Job Title": "Counselor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,400.00"
+  },
+  {
+    "Employee Name": "Brown,Amanda L",
+    "Job Title": "Counselor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,511.84"
+  },
+  {
+    "Employee Name": "Howard,Clayton W",
+    "Job Title": "Counselor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$44,000.57"
+  },
+  {
+    "Employee Name": "Stutterheim,William J",
+    "Job Title": "Counselor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,600.67"
+  },
+  {
+    "Employee Name": "Oliver,Meghan M",
+    "Job Title": "Creative Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,133.35"
+  },
+  {
+    "Employee Name": "Schuckman,Kerry D.",
+    "Job Title": "Credential Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$57,096.08"
+  },
+  {
+    "Employee Name": "Wilson Brantley,Laura E",
+    "Job Title": "Curator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,406.00"
+  },
+  {
+    "Employee Name": "Aschenbrenner,John P",
+    "Job Title": "Custodial Manager",
+    "Overtime Pay": "$840.20",
+    "Total Gross Pay": "$40,114.07"
+  },
+  {
+    "Employee Name": "Keller,Troy S",
+    "Job Title": "Custodial Manager",
+    "Overtime Pay": "$861.63",
+    "Total Gross Pay": "$37,138.86"
+  },
+  {
+    "Employee Name": "Depenbusch,Lucas M",
+    "Job Title": "Custodial Manager - USS",
+    "Overtime Pay": "$854.96",
+    "Total Gross Pay": "$41,514.24"
+  },
+  {
+    "Employee Name": "Ehrlich,Daniel J",
+    "Job Title": "Custodial Supervisor",
+    "Overtime Pay": "$47.31",
+    "Total Gross Pay": "$32,669.76"
+  },
+  {
+    "Employee Name": "Legleiter,Ramona J",
+    "Job Title": "Custodial Supervisor",
+    "Overtime Pay": "$162.83",
+    "Total Gross Pay": "$34,708.47"
+  },
+  {
+    "Employee Name": "Marcotte,Tyler J",
+    "Job Title": "Custodial Supervisor",
+    "Overtime Pay": "$1,495.55",
+    "Total Gross Pay": "$35,701.78"
+  },
+  {
+    "Employee Name": "Zimmerman,Matthew M",
+    "Job Title": "Custodial Supervisor",
+    "Overtime Pay": "$78.75",
+    "Total Gross Pay": "$28,763.54"
+  },
+  {
+    "Employee Name": "Boese,Sharon K",
+    "Job Title": "Custodial Supervisor - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,587.22"
+  },
+  {
+    "Employee Name": "Dechant,James L",
+    "Job Title": "Custodial Supervisor - USS",
+    "Overtime Pay": "$150.00",
+    "Total Gross Pay": "$42,061.05"
+  },
+  {
+    "Employee Name": "Dreiling,Randolph P",
+    "Job Title": "Custodial Supervisor - USS",
+    "Overtime Pay": "$561.86",
+    "Total Gross Pay": "$42,137.16"
+  },
+  {
+    "Employee Name": "Windholz,Michelle",
+    "Job Title": "Custodial Supervisor - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,043.24"
+  },
+  {
+    "Employee Name": "Bizzell,Tamela J",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$22,636.81"
+  },
+  {
+    "Employee Name": "Day,Brittni E",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$22,541.46"
+  },
+  {
+    "Employee Name": "Delton,Ricky C",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,312.01"
+  },
+  {
+    "Employee Name": "Disney,Lori J",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$29,566.47"
+  },
+  {
+    "Employee Name": "Dreher,Ruth A",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,821.23"
+  },
+  {
+    "Employee Name": "Dreiling,Russell A",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,283.26"
+  },
+  {
+    "Employee Name": "Eckhart,Jason A",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,435.91"
+  },
+  {
+    "Employee Name": "Fitzgerald,Mackenzie L",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,884.80"
+  },
+  {
+    "Employee Name": "Flax,Jacquelyn M",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,312.00"
+  },
+  {
+    "Employee Name": "Gallagher III,Dennis R",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$184.82",
+    "Total Gross Pay": "$7,033.81"
+  },
+  {
+    "Employee Name": "Gerhardt,Patricia D",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,312.02"
+  },
+  {
+    "Employee Name": "Gross,Ethan W",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$460.03",
+    "Total Gross Pay": "$15,995.38"
+  },
+  {
+    "Employee Name": "Heier,Daniel L",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,779.35"
+  },
+  {
+    "Employee Name": "Jimenez,Martin C",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,841.75"
+  },
+  {
+    "Employee Name": "Knieling,Mallory L",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,788.64"
+  },
+  {
+    "Employee Name": "Kuhn,Mark P",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,834.20"
+  },
+  {
+    "Employee Name": "Lawson,Ryan D",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,428.90"
+  },
+  {
+    "Employee Name": "Lemma,Tadesech T",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,745.89"
+  },
+  {
+    "Employee Name": "Lyon,Mark A",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$114.48",
+    "Total Gross Pay": "$26,426.51"
+  },
+  {
+    "Employee Name": "Mindrup,Francis B",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$364.19",
+    "Total Gross Pay": "$27,267.40"
+  },
+  {
+    "Employee Name": "Minkler,Wallace E",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$57.24",
+    "Total Gross Pay": "$26,369.27"
+  },
+  {
+    "Employee Name": "Relaford,Susan K",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$209.30",
+    "Total Gross Pay": "$26,521.38"
+  },
+  {
+    "Employee Name": "Relaford,Wyatt X",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,880.33"
+  },
+  {
+    "Employee Name": "Rivera Santoyo,Samuel",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$207.74",
+    "Total Gross Pay": "$27,069.79"
+  },
+  {
+    "Employee Name": "Schmitz,Derrik A",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,831.49"
+  },
+  {
+    "Employee Name": "Smitherman,Angela L",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$132.20",
+    "Total Gross Pay": "$26,973.71"
+  },
+  {
+    "Employee Name": "Smitherman,Israel W",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$189.63",
+    "Total Gross Pay": "$26,501.64"
+  },
+  {
+    "Employee Name": "Stratton,Dallas-Jacob R",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$144.24",
+    "Total Gross Pay": "$4,182.80"
+  },
+  {
+    "Employee Name": "Valentine,Bryan L",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$262.35",
+    "Total Gross Pay": "$26,750.45"
+  },
+  {
+    "Employee Name": "Voss,Kirk D",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$341.50",
+    "Total Gross Pay": "$26,653.50"
+  },
+  {
+    "Employee Name": "Wooldridge,Brian P",
+    "Job Title": "Custodian",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,312.00"
+  },
+  {
+    "Employee Name": "Allen,Deborah A",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$281.88",
+    "Total Gross Pay": "$29,078.72"
+  },
+  {
+    "Employee Name": "Bachar,Matthew K",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,112.20"
+  },
+  {
+    "Employee Name": "Beat,Steven E",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,751.17"
+  },
+  {
+    "Employee Name": "Brungardt,Keith A",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$151.20",
+    "Total Gross Pay": "$27,023.70"
+  },
+  {
+    "Employee Name": "Cox,David L",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,702.47"
+  },
+  {
+    "Employee Name": "Dinkel,Sean R",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,727.90"
+  },
+  {
+    "Employee Name": "Doerschlag,John E",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$228.60",
+    "Total Gross Pay": "$27,121.11"
+  },
+  {
+    "Employee Name": "Drees,Carol J",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,714.90"
+  },
+  {
+    "Employee Name": "Feldt,Josephine R",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$126.47",
+    "Total Gross Pay": "$27,743.87"
+  },
+  {
+    "Employee Name": "Hinzman,David D",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$16,221.68"
+  },
+  {
+    "Employee Name": "Jenicke,Wanda K",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,934.45"
+  },
+  {
+    "Employee Name": "Johnson,Rosemary",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,100.12"
+  },
+  {
+    "Employee Name": "Kippes,Kenneth D",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,739.45"
+  },
+  {
+    "Employee Name": "Kuhn,Becky M",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$356.07",
+    "Total Gross Pay": "$33,248.87"
+  },
+  {
+    "Employee Name": "Meier,Steven H",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$377.67",
+    "Total Gross Pay": "$31,180.87"
+  },
+  {
+    "Employee Name": "Morgan,Lisa J",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$643.44",
+    "Total Gross Pay": "$28,119.01"
+  },
+  {
+    "Employee Name": "Napell,Janice D",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,390.34"
+  },
+  {
+    "Employee Name": "Plante,Amanda J",
+    "Job Title": "Custodian - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,332.82"
+  },
+  {
+    "Employee Name": "Adams,Paul E",
+    "Job Title": "Dean",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$165,838.29"
+  },
+  {
+    "Employee Name": "Briggs,Jeffrey D",
+    "Job Title": "Dean",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$162,009.31"
+  },
+  {
+    "Employee Name": "Faber,Paul W",
+    "Job Title": "Dean",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$138,625.65"
+  },
+  {
+    "Employee Name": "Ludwig,Deborah Marie",
+    "Job Title": "Dean",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$118,683.46"
+  },
+  {
+    "Employee Name": "Cronn,Rachel A",
+    "Job Title": "Degree Analyst",
+    "Overtime Pay": "$273.94",
+    "Total Gross Pay": "$33,125.14"
+  },
+  {
+    "Employee Name": "Klima,Elizabeth A",
+    "Job Title": "Degree Analyst",
+    "Overtime Pay": "$208.56",
+    "Total Gross Pay": "$33,080.56"
+  },
+  {
+    "Employee Name": "Mergen,Christina",
+    "Job Title": "Degree Analyst",
+    "Overtime Pay": "$105.90",
+    "Total Gross Pay": "$34,475.52"
+  },
+  {
+    "Employee Name": "Sakraida,Scott C",
+    "Job Title": "Degree Analyst",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,619.08"
+  },
+  {
+    "Employee Name": "Urban,Brenda M",
+    "Job Title": "Degree Analyst",
+    "Overtime Pay": "$1,049.33",
+    "Total Gross Pay": "$35,106.93"
+  },
+  {
+    "Employee Name": "Davidson,Louwayne M",
+    "Job Title": "Degree Analyst - USS",
+    "Overtime Pay": "$4,677.47",
+    "Total Gross Pay": "$38,850.11"
+  },
+  {
+    "Employee Name": "Garner,Linda",
+    "Job Title": "Degree Analyst - USS",
+    "Overtime Pay": "$113.73",
+    "Total Gross Pay": "$37,019.33"
+  },
+  {
+    "Employee Name": "Pfeifer,Luann M",
+    "Job Title": "Degree Analyst - USS",
+    "Overtime Pay": "$1,742.09",
+    "Total Gross Pay": "$41,402.92"
+  },
+  {
+    "Employee Name": "Vonfeldt,Brittney R",
+    "Job Title": "Degree Analyst - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,637.76"
+  },
+  {
+    "Employee Name": "Williams,Lucille E",
+    "Job Title": "Degree Analyst - USS",
+    "Overtime Pay": "$6,253.27",
+    "Total Gross Pay": "$52,899.49"
+  },
+  {
+    "Employee Name": "Huxman,Jason D",
+    "Job Title": "Desktop Engineer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$21,759.21"
+  },
+  {
+    "Employee Name": "Orth,Mark L.",
+    "Job Title": "Desktop Engineer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,065.65"
+  },
+  {
+    "Employee Name": "Purinton,Megan M",
+    "Job Title": "Development Specialist",
+    "Overtime Pay": "$329.99",
+    "Total Gross Pay": "$23,495.04"
+  },
+  {
+    "Employee Name": "Rose,Trent A",
+    "Job Title": "Development Specialist",
+    "Overtime Pay": "$124.55",
+    "Total Gross Pay": "$35,524.58"
+  },
+  {
+    "Employee Name": "Unruh,Nathan D",
+    "Job Title": "Digital Media Production Technician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,604.80"
+  },
+  {
+    "Employee Name": "Shahidi,Mehran",
+    "Job Title": "Director Major Div/School",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,521.04"
+  },
+  {
+    "Employee Name": "Armstrong,Jonathon D",
+    "Job Title": "Director of Admissions",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,962.68"
+  },
+  {
+    "Employee Name": "Snow,David D",
+    "Job Title": "Director of Entrepreneurship",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$85,385.08"
+  },
+  {
+    "Employee Name": "Deines,Kent Alan",
+    "Job Title": "Director of Robbins Banking Institute",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$90,426.86"
+  },
+  {
+    "Employee Name": "Stremel,Kelsey L",
+    "Job Title": "Director of Strategic Communications",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,736.84"
+  },
+  {
+    "Employee Name": "Fitzhugh,David K",
+    "Job Title": "Director/Assoc. Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$84,384.34"
+  },
+  {
+    "Employee Name": "Wagner,Jennifer R",
+    "Job Title": "Director/Assoc. Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$92,763.06"
+  },
+  {
+    "Employee Name": "Klaus,Kaley Renee",
+    "Job Title": "Director/Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,659.51"
+  },
+  {
+    "Employee Name": "Pfeifer,Deborah K",
+    "Job Title": "Director/Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,192.46"
+  },
+  {
+    "Employee Name": "Schmidtberger,Colin",
+    "Job Title": "Director/Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$17,153.00"
+  },
+  {
+    "Employee Name": "Sun,Jian",
+    "Job Title": "Docking Institute Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,906.49"
+  },
+  {
+    "Employee Name": "Montelongo,Luis D",
+    "Job Title": "Docking Institute Research Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,105.71"
+  },
+  {
+    "Employee Name": "Duffy,Robert E",
+    "Job Title": "Drug and Alcohol Counselor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,482.99"
+  },
+  {
+    "Employee Name": "Walters,Martin L",
+    "Job Title": "Electrician",
+    "Overtime Pay": "$117.18",
+    "Total Gross Pay": "$40,302.82"
+  },
+  {
+    "Employee Name": "Wiedeman,Dale L.",
+    "Job Title": "Electrician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,721.60"
+  },
+  {
+    "Employee Name": "Soukup,Roy C.",
+    "Job Title": "Electronics Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,044.85"
+  },
+  {
+    "Employee Name": "Dreher,Keith J",
+    "Job Title": "Energy & Utilities Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,216.82"
+  },
+  {
+    "Employee Name": "Bond,Miranda A",
+    "Job Title": "Enrollment Management Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,665.06"
+  },
+  {
+    "Employee Name": "Thornton,Jennifer L",
+    "Job Title": "Enrollment Management Assistant - USS",
+    "Overtime Pay": "$71.42",
+    "Total Gross Pay": "$32,901.90"
+  },
+  {
+    "Employee Name": "Taggart,Travis W",
+    "Job Title": "Enterprise Systems Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$73,588.70"
+  },
+  {
+    "Employee Name": "Nease,Michael A",
+    "Job Title": "Enterprise Technology Support Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,343.17"
+  },
+  {
+    "Employee Name": "Luedders,Chris A",
+    "Job Title": "Environmental Control Specialist",
+    "Overtime Pay": "$322.64",
+    "Total Gross Pay": "$34,225.07"
+  },
+  {
+    "Employee Name": "Ibarra,Arnoldo R.",
+    "Job Title": "Environmental Safety Manager - USS",
+    "Overtime Pay": "$379.80",
+    "Total Gross Pay": "$48,155.55"
+  },
+  {
+    "Employee Name": "Haberman,Douglas S",
+    "Job Title": "Equipment Mechanic",
+    "Overtime Pay": "$689.43",
+    "Total Gross Pay": "$31,862.79"
+  },
+  {
+    "Employee Name": "Arnhold,Adam K",
+    "Job Title": "Equipment Operator Specialist",
+    "Overtime Pay": "$554.41",
+    "Total Gross Pay": "$31,286.12"
+  },
+  {
+    "Employee Name": "Broeckelman,Rojene M",
+    "Job Title": "Executive Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,512.00"
+  },
+  {
+    "Employee Name": "Cline,Cynthia J",
+    "Job Title": "Executive Administrative Specialist",
+    "Overtime Pay": "$939.00",
+    "Total Gross Pay": "$52,742.22"
+  },
+  {
+    "Employee Name": "Gist,Christine R",
+    "Job Title": "Executive Administrative Specialist",
+    "Overtime Pay": "$8,252.48",
+    "Total Gross Pay": "$59,922.00"
+  },
+  {
+    "Employee Name": "Meier,Mary J",
+    "Job Title": "Executive Administrative Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,524.81"
+  },
+  {
+    "Employee Name": "Allen,Karen A",
+    "Job Title": "Executive Assistant to the President",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,848.92"
+  },
+  {
+    "Employee Name": "Burns,William L",
+    "Job Title": "Executive Director of Early College Programs",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,040.78"
+  },
+  {
+    "Employee Name": "Baczkowski,Nathan K",
+    "Job Title": "Facilities Maintenance Technician",
+    "Overtime Pay": "$403.38",
+    "Total Gross Pay": "$36,539.48"
+  },
+  {
+    "Employee Name": "Deatherage,Derek R",
+    "Job Title": "Facilities Maintenance Technician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,352.80"
+  },
+  {
+    "Employee Name": "Werth,Norman J",
+    "Job Title": "Facilities Maintenance Technician",
+    "Overtime Pay": "$174.28",
+    "Total Gross Pay": "$38,740.56"
+  },
+  {
+    "Employee Name": "Augustine,Jeffrey L",
+    "Job Title": "Facilities Maintenance Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,310.42"
+  },
+  {
+    "Employee Name": "Beilman,Eugene C.",
+    "Job Title": "Facilities Maintenance Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$37,874.16"
+  },
+  {
+    "Employee Name": "Flax,Mark A.",
+    "Job Title": "Facilities Maintenance Technician - USS",
+    "Overtime Pay": "$307.59",
+    "Total Gross Pay": "$39,151.61"
+  },
+  {
+    "Employee Name": "Heath,Bruce A",
+    "Job Title": "Facilities Maintenance Technician - USS",
+    "Overtime Pay": "$579.49",
+    "Total Gross Pay": "$47,984.41"
+  },
+  {
+    "Employee Name": "Meder,Greg F.",
+    "Job Title": "Facilities Maintenance Technician - USS",
+    "Overtime Pay": "$938.55",
+    "Total Gross Pay": "$39,473.85"
+  },
+  {
+    "Employee Name": "Storer,David D",
+    "Job Title": "Facilities Maintenance Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,891.24"
+  },
+  {
+    "Employee Name": "Cunningham,Dana A",
+    "Job Title": "Facilities Planning Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$109,128.47"
+  },
+  {
+    "Employee Name": "Lowry,Samantha L",
+    "Job Title": "Facilities Planning Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,267.24"
+  },
+  {
+    "Employee Name": "Frank,Nicole M",
+    "Job Title": "Faculty Development Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$70,163.82"
+  },
+  {
+    "Employee Name": "Haag,Latisha D.",
+    "Job Title": "Faculty Development Training Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,435.00"
+  },
+  {
+    "Employee Name": "Arnold,Chantelle S",
+    "Job Title": "Financial Aid Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,694.91"
+  },
+  {
+    "Employee Name": "Brungardt,Robyn J.",
+    "Job Title": "Financial Aid Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,622.59"
+  },
+  {
+    "Employee Name": "McWhirter,Heather L",
+    "Job Title": "Financial Aid Advisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,564.84"
+  },
+  {
+    "Employee Name": "Groff,Pamela S",
+    "Job Title": "Financial Aid Assistant - USS",
+    "Overtime Pay": "$770.18",
+    "Total Gross Pay": "$37,384.59"
+  },
+  {
+    "Employee Name": "Delzeit,Angela N",
+    "Job Title": "Financial Aid Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,534.15"
+  },
+  {
+    "Employee Name": "Flipse,Vanessa M",
+    "Job Title": "Financial Aid Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,800.22"
+  },
+  {
+    "Employee Name": "McCombs,Maggie M",
+    "Job Title": "Financial Aid Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$29,716.81"
+  },
+  {
+    "Employee Name": "Moeder,Amy L",
+    "Job Title": "Financial Aid Specialist",
+    "Overtime Pay": "$1,397.57",
+    "Total Gross Pay": "$41,141.57"
+  },
+  {
+    "Employee Name": "Stephen,DeLeon D",
+    "Job Title": "Financial Aid Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,040.00"
+  },
+  {
+    "Employee Name": "Dougherty,Emily R",
+    "Job Title": "Fiscal and Business Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,371.30"
+  },
+  {
+    "Employee Name": "Noble,Ann M",
+    "Job Title": "Fiscal and Business Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,353.94"
+  },
+  {
+    "Employee Name": "Rothchild,Kasiah S",
+    "Job Title": "Fiscal and Business Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,020.00"
+  },
+  {
+    "Employee Name": "Rupp,Kristin N",
+    "Job Title": "Fiscal and Operations Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$57,755.82"
+  },
+  {
+    "Employee Name": "Schmidtberger,Janet L",
+    "Job Title": "Fiscal Business Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,369.60"
+  },
+  {
+    "Employee Name": "Fischer,Helen Joy",
+    "Job Title": "Foster Grandparent & Senior Companion Assistant Di",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,829.58"
+  },
+  {
+    "Employee Name": "Rohr,Tawnya L",
+    "Job Title": "Foster Grandparent & Senior Companion Director",
+    "Overtime Pay": "$497.25",
+    "Total Gross Pay": "$37,070.05"
+  },
+  {
+    "Employee Name": "Kaiser,Heather L.",
+    "Job Title": "General Counsel Office Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,436.81"
+  },
+  {
+    "Employee Name": "Patterson,Sarah L",
+    "Job Title": "Graduate Program Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,804.87"
+  },
+  {
+    "Employee Name": "Schreiber,James M",
+    "Job Title": "Grounds & Custodial Services Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,897.77"
+  },
+  {
+    "Employee Name": "Dreiling,C. Dean",
+    "Job Title": "Grounds Supervisor - USS",
+    "Overtime Pay": "$873.96",
+    "Total Gross Pay": "$39,869.21"
+  },
+  {
+    "Employee Name": "Rohr,Allen R",
+    "Job Title": "Grounds Supervisor - USS",
+    "Overtime Pay": "$1,040.98",
+    "Total Gross Pay": "$40,606.43"
+  },
+  {
+    "Employee Name": "Deets,Trevor W",
+    "Job Title": "Grounds Technician",
+    "Overtime Pay": "$1,292.09",
+    "Total Gross Pay": "$29,403.31"
+  },
+  {
+    "Employee Name": "Leiker,Blake M",
+    "Job Title": "Grounds Technician",
+    "Overtime Pay": "$496.86",
+    "Total Gross Pay": "$28,472.91"
+  },
+  {
+    "Employee Name": "Messeck,Michael R",
+    "Job Title": "Grounds Technician",
+    "Overtime Pay": "$86.31",
+    "Total Gross Pay": "$34,281.51"
+  },
+  {
+    "Employee Name": "Pianalto,Lakin J",
+    "Job Title": "Grounds Technician",
+    "Overtime Pay": "$607.23",
+    "Total Gross Pay": "$28,703.74"
+  },
+  {
+    "Employee Name": "Rucker,Aaron C",
+    "Job Title": "Grounds Technician",
+    "Overtime Pay": "$316.20",
+    "Total Gross Pay": "$19,253.71"
+  },
+  {
+    "Employee Name": "Wickham,Sonja L",
+    "Job Title": "Grounds Technician",
+    "Overtime Pay": "$111.15",
+    "Total Gross Pay": "$11,769.59"
+  },
+  {
+    "Employee Name": "Kroeger,Jeffrey C",
+    "Job Title": "Grounds Technician - USS",
+    "Overtime Pay": "$496.39",
+    "Total Gross Pay": "$35,794.00"
+  },
+  {
+    "Employee Name": "Hepner,Nathanial J",
+    "Job Title": "Head Athletic Trainer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,284.24"
+  },
+  {
+    "Employee Name": "Brown,Christopher J",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$132,461.87"
+  },
+  {
+    "Employee Name": "Cleary,Gerard M",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,461.63"
+  },
+  {
+    "Employee Name": "Flax,Brian E",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,392.28"
+  },
+  {
+    "Employee Name": "Goodale,Jerod M",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,750.29"
+  },
+  {
+    "Employee Name": "Hobson,Anthony C",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$88,295.26"
+  },
+  {
+    "Employee Name": "Johnson,Mark A",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$98,980.35"
+  },
+  {
+    "Employee Name": "Kincaid,Seth C",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,745.32"
+  },
+  {
+    "Employee Name": "McCullough,Jason W",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,273.80"
+  },
+  {
+    "Employee Name": "Pilkington,Adrian M",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,943.68"
+  },
+  {
+    "Employee Name": "Reynolds,Blake A",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,440.34"
+  },
+  {
+    "Employee Name": "Thompson,Charles H",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,144.50"
+  },
+  {
+    "Employee Name": "Wood-Atkins,Jessica M",
+    "Job Title": "Head Coach",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$60,750.45"
+  },
+  {
+    "Employee Name": "Schlyer,Michelle A",
+    "Job Title": "Help Desk Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,470.63"
+  },
+  {
+    "Employee Name": "Jacobs,Jacque L",
+    "Job Title": "Herndon Clinic Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,945.53"
+  },
+  {
+    "Employee Name": "Hickel,Kayla M",
+    "Job Title": "Higher Education Opportunity Ctr Program Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,110.95"
+  },
+  {
+    "Employee Name": "Ramos,Mercedes",
+    "Job Title": "Higher Education Opportunity Ctr Program Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$73,350.40"
+  },
+  {
+    "Employee Name": "Augustine,Donna K",
+    "Job Title": "Horticulture Supervisor - USS",
+    "Overtime Pay": "$486.90",
+    "Total Gross Pay": "$38,390.90"
+  },
+  {
+    "Employee Name": "Simpson,Bekka P",
+    "Job Title": "Human Resource Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,190.00"
+  },
+  {
+    "Employee Name": "Storer,Deborah L.",
+    "Job Title": "Human Resource Program Specialist",
+    "Overtime Pay": "$543.50",
+    "Total Gross Pay": "$40,038.05"
+  },
+  {
+    "Employee Name": "Roberts,Eileen M",
+    "Job Title": "Human Resource Program Specialist - USS",
+    "Overtime Pay": "$2,865.31",
+    "Total Gross Pay": "$45,322.53"
+  },
+  {
+    "Employee Name": "Rice,Jessie B",
+    "Job Title": "Human Resource Specialist",
+    "Overtime Pay": "$2,478.09",
+    "Total Gross Pay": "$40,566.23"
+  },
+  {
+    "Employee Name": "Gregg,Amy M",
+    "Job Title": "Human Resource Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,375.74"
+  },
+  {
+    "Employee Name": "Lane,Carrie D",
+    "Job Title": "Human Resource Specialist - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,375.77"
+  },
+  {
+    "Employee Name": "Lindsey,Shannon D",
+    "Job Title": "Human Resources Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$87,632.00"
+  },
+  {
+    "Employee Name": "Denning,Margaret J",
+    "Job Title": "Human Services Practitioner",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,036.76"
+  },
+  {
+    "Employee Name": "Deatherage,Joshua E",
+    "Job Title": "HVAC Technician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,185.60"
+  },
+  {
+    "Employee Name": "Risher,Derek A",
+    "Job Title": "HVAC Technician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,436.32"
+  },
+  {
+    "Employee Name": "States,Jessica L",
+    "Job Title": "Information Security",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,768.79"
+  },
+  {
+    "Employee Name": "Castro,Luis C",
+    "Job Title": "Information Technology Support Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,235.85"
+  },
+  {
+    "Employee Name": "Cook,Mark D",
+    "Job Title": "Information Technology Support Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,393.63"
+  },
+  {
+    "Employee Name": "Mills,Kristi L",
+    "Job Title": "Institutional Research Analyst",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,922.83"
+  },
+  {
+    "Employee Name": "Rajewski,Jane M",
+    "Job Title": "Institutional Research Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,079.18"
+  },
+  {
+    "Employee Name": "A,Gulinna",
+    "Job Title": "Instructional Designer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,097.60"
+  },
+  {
+    "Employee Name": "Gutsch,Seung H",
+    "Job Title": "Instructional Designer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,421.86"
+  },
+  {
+    "Employee Name": "Zhou,Ting",
+    "Job Title": "Instructional Designer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,295.21"
+  },
+  {
+    "Employee Name": "Abotteen,Shukri",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,159.04"
+  },
+  {
+    "Employee Name": "Abukhodair,Bader M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,752.56"
+  },
+  {
+    "Employee Name": "Ackerman,George M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Adams,Ann C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,729.00"
+  },
+  {
+    "Employee Name": "Adams,Jack Lynn",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,097.32"
+  },
+  {
+    "Employee Name": "Adams,John D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$24,760.00"
+  },
+  {
+    "Employee Name": "Adams,Kellen J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,855.00"
+  },
+  {
+    "Employee Name": "Adams,Monti J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$808.74"
+  },
+  {
+    "Employee Name": "Agate,Sarah T",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Aguilar,Sonia B",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$76,895.14"
+  },
+  {
+    "Employee Name": "Albin,Lance D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,580.00"
+  },
+  {
+    "Employee Name": "Anderson,David Scott",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,790.00"
+  },
+  {
+    "Employee Name": "Arbogast,Gary W",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Arnberger,Kelly Joseph",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,865.00"
+  },
+  {
+    "Employee Name": "Arroyo,David-Ariel A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,868.67"
+  },
+  {
+    "Employee Name": "Arthur,Charmion C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,606.31"
+  },
+  {
+    "Employee Name": "Ashton,Elizabeth C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Basgall,David J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,320.00"
+  },
+  {
+    "Employee Name": "Bearley,Justin",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,790.00"
+  },
+  {
+    "Employee Name": "Bell,Dillon R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Benisch,Kelsey A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,831.93"
+  },
+  {
+    "Employee Name": "Bennett,Teresea L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,206.25"
+  },
+  {
+    "Employee Name": "Beougher,Marcy J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,733.00"
+  },
+  {
+    "Employee Name": "Bernal Santana,Margarita M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,990.00"
+  },
+  {
+    "Employee Name": "Besse,Robin D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,980.00"
+  },
+  {
+    "Employee Name": "Bieker,Brandie M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,475.00"
+  },
+  {
+    "Employee Name": "Billinger II,Larry J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,952.88"
+  },
+  {
+    "Employee Name": "Bittel,Erica S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,380.98"
+  },
+  {
+    "Employee Name": "Bock,Lindsey C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,790.00"
+  },
+  {
+    "Employee Name": "Boldra,Sue E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$84,059.51"
+  },
+  {
+    "Employee Name": "Bolt,Pandora Rupert",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,901.01"
+  },
+  {
+    "Employee Name": "Bonomelli,Selena L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,712.43"
+  },
+  {
+    "Employee Name": "Bovee,David S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,881.00"
+  },
+  {
+    "Employee Name": "Boxberger,Kimberly S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$13,124.00"
+  },
+  {
+    "Employee Name": "Bradstreet,Dustin E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$24,944.12"
+  },
+  {
+    "Employee Name": "Bragger,Judith L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,254.25"
+  },
+  {
+    "Employee Name": "Brantley,Sherri Gay",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$16,047.50"
+  },
+  {
+    "Employee Name": "Braun,Jerald J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$16,728.75"
+  },
+  {
+    "Employee Name": "Breen,Anita K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Brooks,Jerrie L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,690.00"
+  },
+  {
+    "Employee Name": "Brous,Mandi K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,167.00"
+  },
+  {
+    "Employee Name": "Brown-Kuchera,Valerie C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,212.15"
+  },
+  {
+    "Employee Name": "Brummer,Judith M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,157.86"
+  },
+  {
+    "Employee Name": "Brungardt,Todd A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,583.00"
+  },
+  {
+    "Employee Name": "Bryant,Gene Y",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,288.75"
+  },
+  {
+    "Employee Name": "Buell,Sherry Dawn",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,570.00"
+  },
+  {
+    "Employee Name": "Bugbee,Abby M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,212.75"
+  },
+  {
+    "Employee Name": "Burnett,Jeffrey S.",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$95,437.59"
+  },
+  {
+    "Employee Name": "Burrows,Karen E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,570.00"
+  },
+  {
+    "Employee Name": "Callich,Gaye R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,695.00"
+  },
+  {
+    "Employee Name": "Campbell,Laura L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,264.35"
+  },
+  {
+    "Employee Name": "Cannizzo,Julie D.",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$21,523.50"
+  },
+  {
+    "Employee Name": "Caporusso,Nicholas",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,425.14"
+  },
+  {
+    "Employee Name": "Carlisle,Jordan D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,695.00"
+  },
+  {
+    "Employee Name": "Carlton,Jeremiah L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$19,193.75"
+  },
+  {
+    "Employee Name": "Carmack,Arlea R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,555.00"
+  },
+  {
+    "Employee Name": "Carr,Rachel N",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,574.00"
+  },
+  {
+    "Employee Name": "Carter,Caitlin O'Reilly Brady",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,146.25"
+  },
+  {
+    "Employee Name": "Carver,Larry A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,095.00"
+  },
+  {
+    "Employee Name": "Celikbilek,Can",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,000.00"
+  },
+  {
+    "Employee Name": "Chalfant,Morgan C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,723.68"
+  },
+  {
+    "Employee Name": "Challacombe,Darin J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,855.00"
+  },
+  {
+    "Employee Name": "Chance,Nuchelle L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$58,951.17"
+  },
+  {
+    "Employee Name": "Clark,Greta M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,051.25"
+  },
+  {
+    "Employee Name": "Clay,Donnel J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,965.00"
+  },
+  {
+    "Employee Name": "Cobo,Katherine L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$21,560.00"
+  },
+  {
+    "Employee Name": "Colby,Jennifer S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,790.00"
+  },
+  {
+    "Employee Name": "Corbin,Bryan M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,910.25"
+  },
+  {
+    "Employee Name": "Cornwall,Georgina J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,247.50"
+  },
+  {
+    "Employee Name": "Coveney,Eamonn W",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,380.00"
+  },
+  {
+    "Employee Name": "Cranwell,Kristi A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,153.75"
+  },
+  {
+    "Employee Name": "Crossette,Craig R.",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,990.00"
+  },
+  {
+    "Employee Name": "Crowley,Ann D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,380.00"
+  },
+  {
+    "Employee Name": "Cunningham,Cheryl K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,361.25"
+  },
+  {
+    "Employee Name": "Curtis,Deanna R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$623.75"
+  },
+  {
+    "Employee Name": "Curtis,Mona C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,807.74"
+  },
+  {
+    "Employee Name": "D'angelo,Peter M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,343.00"
+  },
+  {
+    "Employee Name": "Da Silva Carvalho,Claudia",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$65,822.06"
+  },
+  {
+    "Employee Name": "Dale,Adrianne M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,168.75"
+  },
+  {
+    "Employee Name": "David,Emily F",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,896.02"
+  },
+  {
+    "Employee Name": "David,Kurt K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,380.00"
+  },
+  {
+    "Employee Name": "David,Michael A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,433.00"
+  },
+  {
+    "Employee Name": "Davidson,Anne O",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,990.00"
+  },
+  {
+    "Employee Name": "Dean,Kayla I",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,735.02"
+  },
+  {
+    "Employee Name": "Deenihan,Erin K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,237.50"
+  },
+  {
+    "Employee Name": "Dingler,Elizabeth J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,224.75"
+  },
+  {
+    "Employee Name": "Dinkel,Christopher S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,690.00"
+  },
+  {
+    "Employee Name": "Doherty,Eileen M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,571.00"
+  },
+  {
+    "Employee Name": "Dolechek,Rachel L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,687.20"
+  },
+  {
+    "Employee Name": "Dowd,Karen J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,116.75"
+  },
+  {
+    "Employee Name": "Dreiling,Larry J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Dreiling,Monica M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,542.25"
+  },
+  {
+    "Employee Name": "Dunn,Donald D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Duskie,Brandi J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$17,793.75"
+  },
+  {
+    "Employee Name": "Erk,Kathryn Rachel",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,780.00"
+  },
+  {
+    "Employee Name": "Evans,Angelique C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,819.18"
+  },
+  {
+    "Employee Name": "Evans,Jennifer S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,685.00"
+  },
+  {
+    "Employee Name": "Evans,Ronald G",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,800.00"
+  },
+  {
+    "Employee Name": "Fairbank,Michelle D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$623.75"
+  },
+  {
+    "Employee Name": "Fernkopf,David C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,962.00"
+  },
+  {
+    "Employee Name": "Fierstein,Marcylene A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,871.25"
+  },
+  {
+    "Employee Name": "Finnerty,Megan S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,366.25"
+  },
+  {
+    "Employee Name": "Ford,Andrea R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,985.00"
+  },
+  {
+    "Employee Name": "Ford,Lorna F",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,790.00"
+  },
+  {
+    "Employee Name": "Foster III,David T",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,095.00"
+  },
+  {
+    "Employee Name": "Fox,Lydia Cruz",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,525.00"
+  },
+  {
+    "Employee Name": "Frederick,Linda S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,410.67"
+  },
+  {
+    "Employee Name": "Fuqua,Joy B",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$23,212.50"
+  },
+  {
+    "Employee Name": "Gatschet,John S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,390.00"
+  },
+  {
+    "Employee Name": "Goddard,Douglas N",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,390.00"
+  },
+  {
+    "Employee Name": "Goebel,Thomas Bradley",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,168.63"
+  },
+  {
+    "Employee Name": "Goertzen,Jill K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,718.00"
+  },
+  {
+    "Employee Name": "Golden,Peggy D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,198.75"
+  },
+  {
+    "Employee Name": "Goldworm,Devlin D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$17,796.25"
+  },
+  {
+    "Employee Name": "Gonzalez,Miguel A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$28,105.46"
+  },
+  {
+    "Employee Name": "Gooch,Deanna L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,453.75"
+  },
+  {
+    "Employee Name": "Gottschalk,Lou Ann",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,150.00"
+  },
+  {
+    "Employee Name": "Gower,Michael E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,390.00"
+  },
+  {
+    "Employee Name": "Graham,Jason M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,309.06"
+  },
+  {
+    "Employee Name": "Graham,Sharon Ann",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$56,150.12"
+  },
+  {
+    "Employee Name": "Graupmann,Jonathan H",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,461.93"
+  },
+  {
+    "Employee Name": "Gray,David A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,770.48"
+  },
+  {
+    "Employee Name": "Greenleaf,Pamela J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,593.75"
+  },
+  {
+    "Employee Name": "Groff,Jessica M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,701.00"
+  },
+  {
+    "Employee Name": "Grubbs,Lisa G",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,420.00"
+  },
+  {
+    "Employee Name": "Gunter,William Scott",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$750.00"
+  },
+  {
+    "Employee Name": "Haar,Joshua R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$23,676.75"
+  },
+  {
+    "Employee Name": "Haffner,Laura B",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,593.00"
+  },
+  {
+    "Employee Name": "Hague,Seth A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Harvey,Douglas S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,891.75"
+  },
+  {
+    "Employee Name": "Haschke,Katelyn J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,359.37"
+  },
+  {
+    "Employee Name": "Hauck,Leslie C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,685.00"
+  },
+  {
+    "Employee Name": "Hauck,Rita M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,475.00"
+  },
+  {
+    "Employee Name": "Hayes,Timothy C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,961.25"
+  },
+  {
+    "Employee Name": "Heimann,William H",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,095.00"
+  },
+  {
+    "Employee Name": "Helton,Garth O",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,794.40"
+  },
+  {
+    "Employee Name": "Henderson,Marie E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,706.25"
+  },
+  {
+    "Employee Name": "Heronemus,Jessica A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$85,393.09"
+  },
+  {
+    "Employee Name": "Hertel,Lori A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,780.00"
+  },
+  {
+    "Employee Name": "Hertzog,Pamela E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,744.21"
+  },
+  {
+    "Employee Name": "Hickert,Kiedra M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,050.80"
+  },
+  {
+    "Employee Name": "Hilton,Houston S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,356.00"
+  },
+  {
+    "Employee Name": "Hixon,Kathy S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,085.00"
+  },
+  {
+    "Employee Name": "Hocker,Darcy D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$17,370.00"
+  },
+  {
+    "Employee Name": "Holden,Adam C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,685.00"
+  },
+  {
+    "Employee Name": "Holden,Jessica F",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$56,127.04"
+  },
+  {
+    "Employee Name": "Horbovetz,Mark R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,168.75"
+  },
+  {
+    "Employee Name": "Houchen,Benjamin",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,286.69"
+  },
+  {
+    "Employee Name": "Howard,Angie M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,418.76"
+  },
+  {
+    "Employee Name": "Hughes,Brittany Nicole",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,182.39"
+  },
+  {
+    "Employee Name": "Hughes,Jeremy M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$21,521.94"
+  },
+  {
+    "Employee Name": "Hurley,Brian G",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$22,725.75"
+  },
+  {
+    "Employee Name": "Huser,Kevin F",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,327.64"
+  },
+  {
+    "Employee Name": "Hutchinson,Brian T",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$44,598.30"
+  },
+  {
+    "Employee Name": "Irwin,Pamela S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$16,543.75"
+  },
+  {
+    "Employee Name": "Jackson,John A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,071.00"
+  },
+  {
+    "Employee Name": "Jacobs,Christopher L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,066.64"
+  },
+  {
+    "Employee Name": "Jacobs,Jesse W",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$86,064.30"
+  },
+  {
+    "Employee Name": "James,Jeffrey R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,372.75"
+  },
+  {
+    "Employee Name": "Jesseph,Jenny L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,133.00"
+  },
+  {
+    "Employee Name": "Jochum,Dara C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,583.75"
+  },
+  {
+    "Employee Name": "Joffrion,Brandi L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,361.25"
+  },
+  {
+    "Employee Name": "Johnson,Jessica M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$13,632.00"
+  },
+  {
+    "Employee Name": "Johnson,Kirk D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,469.50"
+  },
+  {
+    "Employee Name": "Johnson,Luke S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,000.00"
+  },
+  {
+    "Employee Name": "Johnson,Mark A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,462.42"
+  },
+  {
+    "Employee Name": "Jones,John Randolph",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,970.93"
+  },
+  {
+    "Employee Name": "Jones,Joshua M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,380.00"
+  },
+  {
+    "Employee Name": "Jones,Scott R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$82,887.25"
+  },
+  {
+    "Employee Name": "Kaiser,Tracy M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,475.00"
+  },
+  {
+    "Employee Name": "Karjala,Ryan J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$24,807.50"
+  },
+  {
+    "Employee Name": "Karlin,Anthony G",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,380.00"
+  },
+  {
+    "Employee Name": "Karlin,Rebecca L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,480.88"
+  },
+  {
+    "Employee Name": "Keenan,Kara L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,836.33"
+  },
+  {
+    "Employee Name": "Keenan,Sean P",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,999.00"
+  },
+  {
+    "Employee Name": "Kelly,Christie L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Kemble,Jerri J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,980.00"
+  },
+  {
+    "Employee Name": "Kennedy,Erin E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,857.00"
+  },
+  {
+    "Employee Name": "Kepenach,Richard J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,514.25"
+  },
+  {
+    "Employee Name": "Kern,Jennifer D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,570.00"
+  },
+  {
+    "Employee Name": "Kerrigan,Kristin L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,950.00"
+  },
+  {
+    "Employee Name": "King,Casey L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,058.75"
+  },
+  {
+    "Employee Name": "Kitson,Jennifer J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,640.00"
+  },
+  {
+    "Employee Name": "Klaus,Macy S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,944.82"
+  },
+  {
+    "Employee Name": "Klein,Catherine E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,571.00"
+  },
+  {
+    "Employee Name": "Klein,Karl J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Knehr,Michael J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Kollman Jr.,Martin L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,475.00"
+  },
+  {
+    "Employee Name": "Kuntz,Kara B.",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,625.00"
+  },
+  {
+    "Employee Name": "Lacock,Kerry S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,827.50"
+  },
+  {
+    "Employee Name": "Ladish,Nicholas E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,769.75"
+  },
+  {
+    "Employee Name": "Lang,Ruili",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Laundra,Kenneth H",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,555.00"
+  },
+  {
+    "Employee Name": "Lennertz,Kathie I",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,325.00"
+  },
+  {
+    "Employee Name": "Lin,Michelle H",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,790.00"
+  },
+  {
+    "Employee Name": "Lindsey,Carlee J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,214.00"
+  },
+  {
+    "Employee Name": "Linhart,Lisa M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,000.00"
+  },
+  {
+    "Employee Name": "Lint,Allison R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,780.00"
+  },
+  {
+    "Employee Name": "Lippert,Thomas B",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$60,400.35"
+  },
+  {
+    "Employee Name": "Long,John E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,773.00"
+  },
+  {
+    "Employee Name": "LoPreiato,Nicholas J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$13,925.00"
+  },
+  {
+    "Employee Name": "Lucero,Sarah N",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,653.00"
+  },
+  {
+    "Employee Name": "Luea,Patricia J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,998.75"
+  },
+  {
+    "Employee Name": "Lugovskyy,Josephine C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,000.00"
+  },
+  {
+    "Employee Name": "Mack,John N",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,911.25"
+  },
+  {
+    "Employee Name": "Majercin,Jean E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,926.39"
+  },
+  {
+    "Employee Name": "Mann,Brooke M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,992.10"
+  },
+  {
+    "Employee Name": "Marconette,Gennifer A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,950.00"
+  },
+  {
+    "Employee Name": "Marez,Marcella D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,384.31"
+  },
+  {
+    "Employee Name": "Marquess,Hollie A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,791.34"
+  },
+  {
+    "Employee Name": "Marshall,Tara S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,933.75"
+  },
+  {
+    "Employee Name": "Martin,Donte",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,403.00"
+  },
+  {
+    "Employee Name": "Mason,Diane K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "McCleary,Thaddeus B",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,938.46"
+  },
+  {
+    "Employee Name": "McDowell,Theresa M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,171.25"
+  },
+  {
+    "Employee Name": "McEwen,Terry O",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$13,475.00"
+  },
+  {
+    "Employee Name": "McGlinn,Thomas D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,475.00"
+  },
+  {
+    "Employee Name": "McHenry,Linda R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,281.54"
+  },
+  {
+    "Employee Name": "McRay,Virginia L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,856.40"
+  },
+  {
+    "Employee Name": "Meckenstock,Mary L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,836.00"
+  },
+  {
+    "Employee Name": "Meckley,Philip S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Meister,Jill R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,420.00"
+  },
+  {
+    "Employee Name": "Mennenga,Christie M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,588.75"
+  },
+  {
+    "Employee Name": "Mersdorf-Foreman,Sarah M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,990.00"
+  },
+  {
+    "Employee Name": "Michels,Amber N",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,485.00"
+  },
+  {
+    "Employee Name": "Miller,Cynthia L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,790.00"
+  },
+  {
+    "Employee Name": "Miller,Maggie J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,001.00"
+  },
+  {
+    "Employee Name": "Mitchell,Kay L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,695.00"
+  },
+  {
+    "Employee Name": "Mohn,John R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,663.00"
+  },
+  {
+    "Employee Name": "Moody,Marsha L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,855.00"
+  },
+  {
+    "Employee Name": "Moore Jr.,Terrell A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$24,760.00"
+  },
+  {
+    "Employee Name": "Moreland,Andrea R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,036.33"
+  },
+  {
+    "Employee Name": "Musick,Jacqueline Sue",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,000.00"
+  },
+  {
+    "Employee Name": "Musil,Heather J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,836.55"
+  },
+  {
+    "Employee Name": "Muth,Stephanie D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,078.47"
+  },
+  {
+    "Employee Name": "Neely,Robert E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,000.00"
+  },
+  {
+    "Employee Name": "Neimeyer,Gregory J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,780.00"
+  },
+  {
+    "Employee Name": "Neuhauser,Kenneth R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,574.36"
+  },
+  {
+    "Employee Name": "Niblack,Jessica E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,213.00"
+  },
+  {
+    "Employee Name": "Niccum,Kelly C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,475.00"
+  },
+  {
+    "Employee Name": "Nielsen,Ashley A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,312.50"
+  },
+  {
+    "Employee Name": "Nipper-Karnowski,Christina L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,252.00"
+  },
+  {
+    "Employee Name": "Nordyke,Kathy J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Ochoa,Allison S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,285.00"
+  },
+  {
+    "Employee Name": "Oloumi-Johnson,Roxanna",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,118.75"
+  },
+  {
+    "Employee Name": "Olsen,Ryan D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,663.59"
+  },
+  {
+    "Employee Name": "Ortiz,Tenley S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,282.00"
+  },
+  {
+    "Employee Name": "Osorio,Meribel",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$16,640.00"
+  },
+  {
+    "Employee Name": "Overmiller,Aimee G",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Owens,Ceena M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$44,024.18"
+  },
+  {
+    "Employee Name": "Pappas,Christopher P",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Park,Carol M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,475.00"
+  },
+  {
+    "Employee Name": "Patrick,Robert M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,840.00"
+  },
+  {
+    "Employee Name": "Peer,Roland J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,490.15"
+  },
+  {
+    "Employee Name": "Perez,Irene",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,198.75"
+  },
+  {
+    "Employee Name": "Pfannenstiel,Jerett F",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,480.00"
+  },
+  {
+    "Employee Name": "Phoenix,Masyn",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,105.75"
+  },
+  {
+    "Employee Name": "Pierce,Lisa K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,861.25"
+  },
+  {
+    "Employee Name": "Pilkington,Adrian M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,597.44"
+  },
+  {
+    "Employee Name": "Pisano,James D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,980.00"
+  },
+  {
+    "Employee Name": "Plumley,Brian E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,473.08"
+  },
+  {
+    "Employee Name": "Poland,Hannah",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,389.00"
+  },
+  {
+    "Employee Name": "Pope,William A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Powell,Todd D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,475.00"
+  },
+  {
+    "Employee Name": "Powers,William C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,523.00"
+  },
+  {
+    "Employee Name": "Pratt-Smith,Stella A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,485.00"
+  },
+  {
+    "Employee Name": "Pruden,Christianna N",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,416.38"
+  },
+  {
+    "Employee Name": "Purcell,Nicole M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$21,665.00"
+  },
+  {
+    "Employee Name": "Purdon,Christie C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$19,108.85"
+  },
+  {
+    "Employee Name": "Rabor,Leticia A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$29,460.37"
+  },
+  {
+    "Employee Name": "Rankin,Courtney",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,950.00"
+  },
+  {
+    "Employee Name": "Reed,Nathan R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$17,070.00"
+  },
+  {
+    "Employee Name": "Reese,Scott A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,755.00"
+  },
+  {
+    "Employee Name": "Reilley,Tj",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$21,665.00"
+  },
+  {
+    "Employee Name": "Renard,Erin N",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,582.00"
+  },
+  {
+    "Employee Name": "Rhoads,Julie L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,780.00"
+  },
+  {
+    "Employee Name": "Rhoden,Jeffrey G",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,556.25"
+  },
+  {
+    "Employee Name": "Rickford,William Travis",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,374.50"
+  },
+  {
+    "Employee Name": "Rivadeneyra,Tatiana Mari",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Roberts,Shawn M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,620.50"
+  },
+  {
+    "Employee Name": "Robinson,Danielle L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,475.00"
+  },
+  {
+    "Employee Name": "Rogers,Kennedy B",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Rohleder,Kent J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,160.15"
+  },
+  {
+    "Employee Name": "Rose,Brenda M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Ross,John A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,220.00"
+  },
+  {
+    "Employee Name": "Roth,Blake W",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,926.48"
+  },
+  {
+    "Employee Name": "Roths,Lane D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,030.05"
+  },
+  {
+    "Employee Name": "Ryan,Jeremy L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,557.12"
+  },
+  {
+    "Employee Name": "Sadler,Jeffrey D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$64,370.09"
+  },
+  {
+    "Employee Name": "San Martin,Teresa L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,247.50"
+  },
+  {
+    "Employee Name": "Sander,Rebecca K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$84,877.88"
+  },
+  {
+    "Employee Name": "Sands,Susan M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Sansom,Judy",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,447.57"
+  },
+  {
+    "Employee Name": "Sartin,Catherine E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,780.94"
+  },
+  {
+    "Employee Name": "Schartz,Misty D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,136.23"
+  },
+  {
+    "Employee Name": "Scheele,Lauren Louise",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,142.00"
+  },
+  {
+    "Employee Name": "Scheib,Robert A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,533.75"
+  },
+  {
+    "Employee Name": "Schlitzkus,Jeffery C",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,822.25"
+  },
+  {
+    "Employee Name": "Schmidt,Morgan R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,238.00"
+  },
+  {
+    "Employee Name": "Schnetker,Ted R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,571.00"
+  },
+  {
+    "Employee Name": "Schneweis,Kimberly S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,850.25"
+  },
+  {
+    "Employee Name": "Schneweis,Mark D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,990.00"
+  },
+  {
+    "Employee Name": "Schnoor,Teresa L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,240.00"
+  },
+  {
+    "Employee Name": "Schrepel,Walter A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,855.00"
+  },
+  {
+    "Employee Name": "Schwaller IV,Henry",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$76,817.50"
+  },
+  {
+    "Employee Name": "Schwandt,Jamie R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,916.00"
+  },
+  {
+    "Employee Name": "Schwandt,Tomi",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,851.00"
+  },
+  {
+    "Employee Name": "Seibel,Stacey L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,500.00"
+  },
+  {
+    "Employee Name": "Seirer,Jami J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,685.00"
+  },
+  {
+    "Employee Name": "Seo,Grace Zhou",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,391.00"
+  },
+  {
+    "Employee Name": "Shepard,Hilary M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,573.34"
+  },
+  {
+    "Employee Name": "Shepherd-Adams,Cheryl Lynn",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,716.00"
+  },
+  {
+    "Employee Name": "Shields,Jessica",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,000.00"
+  },
+  {
+    "Employee Name": "Short,Hanna L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Shuman,Jerrilee",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,556.00"
+  },
+  {
+    "Employee Name": "Siegrist,Paul V",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,374.00"
+  },
+  {
+    "Employee Name": "Simoneau Wright,Kristin",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Smith,Craig M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$27,915.75"
+  },
+  {
+    "Employee Name": "Smith,Linda E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,289.80"
+  },
+  {
+    "Employee Name": "Snow,Kerri L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,701.17"
+  },
+  {
+    "Employee Name": "Solterbeck,Mark",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,000.00"
+  },
+  {
+    "Employee Name": "Southworth,Jason E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,830.00"
+  },
+  {
+    "Employee Name": "Sowers,Amanda M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,390.00"
+  },
+  {
+    "Employee Name": "Specht,Kimberly K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Splichal,Steven E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,050.00"
+  },
+  {
+    "Employee Name": "Stainbrook,Michael J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,856.25"
+  },
+  {
+    "Employee Name": "Steward,Kent L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,050.00"
+  },
+  {
+    "Employee Name": "Stewart,Jace M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,990.00"
+  },
+  {
+    "Employee Name": "Straight,Jennie L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,145.82"
+  },
+  {
+    "Employee Name": "Stramel,Dean A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,860.00"
+  },
+  {
+    "Employee Name": "Stroburg,Sharon K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Stroup,Sara J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$60,053.08"
+  },
+  {
+    "Employee Name": "Strzemienski,Adam J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$11,761.00"
+  },
+  {
+    "Employee Name": "Sumrall,Jeanne L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$87,038.38"
+  },
+  {
+    "Employee Name": "Svaty,Jennifer L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,871.25"
+  },
+  {
+    "Employee Name": "Swanson,Mary K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,704.03"
+  },
+  {
+    "Employee Name": "Taylor,Randy S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,380.00"
+  },
+  {
+    "Employee Name": "Terry Jr.,Stephen W",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,695.00"
+  },
+  {
+    "Employee Name": "Thielen,Kristina R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,106.00"
+  },
+  {
+    "Employee Name": "Tholstrup,Jon N",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$86,249.04"
+  },
+  {
+    "Employee Name": "Thomas,Anthony J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$832.00"
+  },
+  {
+    "Employee Name": "Thompson,Jessica B",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Thompson,Tyler A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,685.00"
+  },
+  {
+    "Employee Name": "Toft,Evelyn M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$18,575.00"
+  },
+  {
+    "Employee Name": "Toman,George G",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$832.00"
+  },
+  {
+    "Employee Name": "Tomlinson,Debbie S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,078.75"
+  },
+  {
+    "Employee Name": "Tucker,Sara W",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,535.00"
+  },
+  {
+    "Employee Name": "Tuxhorn,Rekala G",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,180.11"
+  },
+  {
+    "Employee Name": "Tyner,Tobias Z",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,390.00"
+  },
+  {
+    "Employee Name": "Uddin-Ahmed,Syed S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,495.00"
+  },
+  {
+    "Employee Name": "Unruh,Robin R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,095.00"
+  },
+  {
+    "Employee Name": "VonFeldt,Bryan T",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,000.00"
+  },
+  {
+    "Employee Name": "Walker,Michael S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,436.10"
+  },
+  {
+    "Employee Name": "Walters,Anita M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,006.63"
+  },
+  {
+    "Employee Name": "Ward Lattin,Stacy D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Washburn,Emily E",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,447.60"
+  },
+  {
+    "Employee Name": "Wasinger,Kerry L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$109,811.82"
+  },
+  {
+    "Employee Name": "Weber,Brian W",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,682.30"
+  },
+  {
+    "Employee Name": "Weber,Dennis W",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$20,709.70"
+  },
+  {
+    "Employee Name": "Weiden,David L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Wellbrock,Gerard J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,895.00"
+  },
+  {
+    "Employee Name": "Wellbrock,Tamara J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Wendel,Casey",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$832.00"
+  },
+  {
+    "Employee Name": "Wentling,Rachel A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,990.00"
+  },
+  {
+    "Employee Name": "Werth,Kay M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,000.00"
+  },
+  {
+    "Employee Name": "Wichers,Andrea A",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,793.00"
+  },
+  {
+    "Employee Name": "Wicks,Christi L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,364.75"
+  },
+  {
+    "Employee Name": "Wiggerman,Jeffrey M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,285.00"
+  },
+  {
+    "Employee Name": "Wiley,James Edward",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,000.00"
+  },
+  {
+    "Employee Name": "Wilks,Sam T",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,938.46"
+  },
+  {
+    "Employee Name": "Williams,Tammie L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,738.00"
+  },
+  {
+    "Employee Name": "Williams,Tomme L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,810.00"
+  },
+  {
+    "Employee Name": "Wilson,Sharon K",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,888.72"
+  },
+  {
+    "Employee Name": "Wiltbank III,Robert H",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,475.00"
+  },
+  {
+    "Employee Name": "Windholz,Kenneth",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,303.70"
+  },
+  {
+    "Employee Name": "Wright,Amie S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$61,198.14"
+  },
+  {
+    "Employee Name": "Wu,Heng",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,990.00"
+  },
+  {
+    "Employee Name": "Yates III,Robert D",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,780.00"
+  },
+  {
+    "Employee Name": "Zamzow,Benjamin F",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,000.00"
+  },
+  {
+    "Employee Name": "Zeng,Michelle H.",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$56,295.99"
+  },
+  {
+    "Employee Name": "Zerfas,Thomas M",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$6,190.00"
+  },
+  {
+    "Employee Name": "Zerr,Deana L",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$64,310.77"
+  },
+  {
+    "Employee Name": "Zhang,Kelei",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$57,354.56"
+  },
+  {
+    "Employee Name": "Zohner,Justin J",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,534.00"
+  },
+  {
+    "Employee Name": "Zollinger,Julie S",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$9,285.00"
+  },
+  {
+    "Employee Name": "Zwenger,Samuel R",
+    "Job Title": "Instructor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$24,837.50"
+  },
+  {
+    "Employee Name": "Moore,Brooke A",
+    "Job Title": "Interim Chair/Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$94,134.45"
+  },
+  {
+    "Employee Name": "Whitaker,Brett L",
+    "Job Title": "Interim Chair/Assistant Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$73,482.10"
+  },
+  {
+    "Employee Name": "Lynn,Tamara J",
+    "Job Title": "Interim Chair/Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$84,061.67"
+  },
+  {
+    "Employee Name": "Sedbrook,Steven R",
+    "Job Title": "Interim Chair/Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$108,493.27"
+  },
+  {
+    "Employee Name": "Walters,Angela A",
+    "Job Title": "Interim Chair/Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$106,185.49"
+  },
+  {
+    "Employee Name": "Wilson Brantley,Laura E",
+    "Job Title": "Interim Chair/Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,557.73"
+  },
+  {
+    "Employee Name": "Hunsicker Walburn,Melissa J",
+    "Job Title": "Interim Dean/Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$121,146.11"
+  },
+  {
+    "Employee Name": "McNeil,Glen F",
+    "Job Title": "Interim Dean/Associate Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$132,440.80"
+  },
+  {
+    "Employee Name": "Dixon,Paul Grady",
+    "Job Title": "Interim Dean/Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$122,528.30"
+  },
+  {
+    "Employee Name": "Solko-Olliff,Carol M",
+    "Job Title": "International Education Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,884.65"
+  },
+  {
+    "Employee Name": "Leibold,Michael A",
+    "Job Title": "International Information Technology Support",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,705.42"
+  },
+  {
+    "Employee Name": "Roth,Anjeanette T",
+    "Job Title": "International Student Services Assistant Program D",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,195.45"
+  },
+  {
+    "Employee Name": "Cunningham,Nancy J.",
+    "Job Title": "IT Operations Analyst",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,337.90"
+  },
+  {
+    "Employee Name": "Zimmerman,Vivian J",
+    "Job Title": "IT Operations Analyst - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,806.52"
+  },
+  {
+    "Employee Name": "Shank,Susan E",
+    "Job Title": "Journeyman Printer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,311.46"
+  },
+  {
+    "Employee Name": "Smith,Gina L",
+    "Job Title": "Kelly Center Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$70,764.19"
+  },
+  {
+    "Employee Name": "Dechant,Santina D",
+    "Job Title": "Kelly Center Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$37,904.00"
+  },
+  {
+    "Employee Name": "Jordan,Gregory A",
+    "Job Title": "KSBDC Associate Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$21,538.60"
+  },
+  {
+    "Employee Name": "Panichello,Jon Gregory",
+    "Job Title": "KSBDC Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$114,895.37"
+  },
+  {
+    "Employee Name": "Wolf,Curtis J",
+    "Job Title": "KWEC Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,787.22"
+  },
+  {
+    "Employee Name": "Kern,Amanda M",
+    "Job Title": "KWEC Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$44,527.07"
+  },
+  {
+    "Employee Name": "Goff,Spencer A",
+    "Job Title": "Lab Program Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$5,711.80"
+  },
+  {
+    "Employee Name": "Ridder,Jared R",
+    "Job Title": "Lab Program Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,660.00"
+  },
+  {
+    "Employee Name": "Tincknell,H. Andrew",
+    "Job Title": "Learning Commons Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,671.29"
+  },
+  {
+    "Employee Name": "Barnett,Molly A",
+    "Job Title": "Learning Media Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$16,864.78"
+  },
+  {
+    "Employee Name": "Adams,Cathy A",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,647.55"
+  },
+  {
+    "Employee Name": "Bolt,Andrew J",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,888.47"
+  },
+  {
+    "Employee Name": "Colwell,Lisa M",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,582.70"
+  },
+  {
+    "Employee Name": "Gabel,Katherine E",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,369.71"
+  },
+  {
+    "Employee Name": "Gillock,Hilary H",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,433.18"
+  },
+  {
+    "Employee Name": "Huyck,Mary Elizabeth",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,687.74"
+  },
+  {
+    "Employee Name": "Mulka,Neil C",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,366.18"
+  },
+  {
+    "Employee Name": "Pahls,Mark C",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$103,958.77"
+  },
+  {
+    "Employee Name": "Pinkston,Emily J",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$64,534.55"
+  },
+  {
+    "Employee Name": "Salmans,Mindy Kay",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,235.92"
+  },
+  {
+    "Employee Name": "Tanguay,Joshua P",
+    "Job Title": "Lecturer - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,440.99"
+  },
+  {
+    "Employee Name": "Dumler,Susan K",
+    "Job Title": "Lecturer - Regular",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,222.17"
+  },
+  {
+    "Employee Name": "Martine,Roberta R",
+    "Job Title": "Lecturer Senior - AP",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$58,215.76"
+  },
+  {
+    "Employee Name": "Harper,Jason K",
+    "Job Title": "Lecturer Senior - Regular",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$64,164.97"
+  },
+  {
+    "Employee Name": "Downing,Mary E",
+    "Job Title": "Librarian I",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,923.46"
+  },
+  {
+    "Employee Name": "Hartman,Robyn C",
+    "Job Title": "Librarian I",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,288.95"
+  },
+  {
+    "Employee Name": "Landis,Cynthia L",
+    "Job Title": "Librarian I",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,110.05"
+  },
+  {
+    "Employee Name": "Nickerson,Claire E",
+    "Job Title": "Librarian I",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,513.28"
+  },
+  {
+    "Employee Name": "Obermayer,Anna E",
+    "Job Title": "Librarian I",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,471.22"
+  },
+  {
+    "Employee Name": "Radnor,Mary C",
+    "Job Title": "Librarian II",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,293.41"
+  },
+  {
+    "Employee Name": "Sauer,Jennifer S.",
+    "Job Title": "Librarian II",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,727.46"
+  },
+  {
+    "Employee Name": "Wade,Mary A",
+    "Job Title": "Librarian II",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,072.05"
+  },
+  {
+    "Employee Name": "Hutchinson,Crystal B",
+    "Job Title": "Library Access Service Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,493.85"
+  },
+  {
+    "Employee Name": "Gribben,Brian",
+    "Job Title": "Library Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,733.01"
+  },
+  {
+    "Employee Name": "Wegner,Lacey L",
+    "Job Title": "Library Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,265.52"
+  },
+  {
+    "Employee Name": "Nicholas,Patricia A",
+    "Job Title": "Library Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,132.76"
+  },
+  {
+    "Employee Name": "Pfeifer,Karen A.",
+    "Job Title": "Library Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,522.02"
+  },
+  {
+    "Employee Name": "Squire,Brittney M",
+    "Job Title": "Library Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,822.48"
+  },
+  {
+    "Employee Name": "Bader,Shirley M",
+    "Job Title": "Loan Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,362.27"
+  },
+  {
+    "Employee Name": "Fisher,Stephen L.",
+    "Job Title": "Locksmith - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,772.89"
+  },
+  {
+    "Employee Name": "Rupp,Denise G",
+    "Job Title": "Mail Center Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$26,561.64"
+  },
+  {
+    "Employee Name": "Bartell,Michael D",
+    "Job Title": "Maintenance and Repair Technician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,264.36"
+  },
+  {
+    "Employee Name": "Bowman,James R",
+    "Job Title": "Maintenance and Repair Technician",
+    "Overtime Pay": "$103.28",
+    "Total Gross Pay": "$29,129.28"
+  },
+  {
+    "Employee Name": "Feldt,Christopher R",
+    "Job Title": "Maintenance and Repair Technician",
+    "Overtime Pay": "$86.37",
+    "Total Gross Pay": "$34,803.50"
+  },
+  {
+    "Employee Name": "Stanley II,Perrell Shane",
+    "Job Title": "Maintenance and Repair Technician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$97.84"
+  },
+  {
+    "Employee Name": "Claypool,Kenneth L",
+    "Job Title": "Maintenance and Repair Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34.53"
+  },
+  {
+    "Employee Name": "Cochran,Christopher W",
+    "Job Title": "Maintenance and Repair Technician - USS",
+    "Overtime Pay": "$10.47",
+    "Total Gross Pay": "$29,165.25"
+  },
+  {
+    "Employee Name": "Cornwell,Fredonna J",
+    "Job Title": "Maintenance and Repair Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$161.14"
+  },
+  {
+    "Employee Name": "Dreiling,Charles D",
+    "Job Title": "Maintenance and Repair Technician - USS",
+    "Overtime Pay": "$204.60",
+    "Total Gross Pay": "$29,232.80"
+  },
+  {
+    "Employee Name": "Schmidt,Lynn L",
+    "Job Title": "Maintenance and Repair Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$299.27"
+  },
+  {
+    "Employee Name": "Wann,Jeremy S",
+    "Job Title": "Maintenance and Repair Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$230.20"
+  },
+  {
+    "Employee Name": "Weigel,Brandon L",
+    "Job Title": "Maintenance and Repair Technician - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$97.84"
+  },
+  {
+    "Employee Name": "Weigel,Robert J",
+    "Job Title": "Maintenance and Repair Technician - USS",
+    "Overtime Pay": "$365.89",
+    "Total Gross Pay": "$32,063.49"
+  },
+  {
+    "Employee Name": "William,Sabrina L",
+    "Job Title": "Management Development Center Program Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$78,858.02"
+  },
+  {
+    "Employee Name": "Franks,Jeff A",
+    "Job Title": "Master Craftsman Printer - USS",
+    "Overtime Pay": "$276.26",
+    "Total Gross Pay": "$36,932.27"
+  },
+  {
+    "Employee Name": "Hilker,Hannah E",
+    "Job Title": "MDC Training Development Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,080.38"
+  },
+  {
+    "Employee Name": "Staab,Kevin W",
+    "Job Title": "Media Resources Technologist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,616.00"
+  },
+  {
+    "Employee Name": "Taylor,Breanna R",
+    "Job Title": "Medical Education Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,883.01"
+  },
+  {
+    "Employee Name": "Tiernan,Stephanie K",
+    "Job Title": "Medical Education Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$66,583.99"
+  },
+  {
+    "Employee Name": "Ternes,Jacob A",
+    "Job Title": "Memorial Union Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,174.84"
+  },
+  {
+    "Employee Name": "McCracken,Edith S",
+    "Job Title": "Memorial Union Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$73,474.95"
+  },
+  {
+    "Employee Name": "Graham,Misty L",
+    "Job Title": "Memorial Union Facility Operations Assistant Direc",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$35,956.13"
+  },
+  {
+    "Employee Name": "Broadway,Kelsi Nicole",
+    "Job Title": "Military Student Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,637.83"
+  },
+  {
+    "Employee Name": "Weigel,Duane G",
+    "Job Title": "Motor Pool Supervisor - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,039.03"
+  },
+  {
+    "Employee Name": "Schmidt,Curtis J",
+    "Job Title": "Museum Collections Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$58,021.38"
+  },
+  {
+    "Employee Name": "Barrick,Reese E",
+    "Job Title": "Museum Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$110,149.36"
+  },
+  {
+    "Employee Name": "Levering,David A",
+    "Job Title": "Museum Education Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,146.43"
+  },
+  {
+    "Employee Name": "Trevethan,Ian J",
+    "Job Title": "Museum Education Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,702.41"
+  },
+  {
+    "Employee Name": "Walters,Gregory D",
+    "Job Title": "Museum Exhibits Manager - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$76,719.97"
+  },
+  {
+    "Employee Name": "Byrd,Christina J",
+    "Job Title": "Museum Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,459.21"
+  },
+  {
+    "Employee Name": "Gaede,Alicia L",
+    "Job Title": "Museum Program Specialist",
+    "Overtime Pay": "$92.82",
+    "Total Gross Pay": "$17,747.82"
+  },
+  {
+    "Employee Name": "Johnson,Derek P",
+    "Job Title": "Network Operations Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$77,473.85"
+  },
+  {
+    "Employee Name": "Lecount,Luke M",
+    "Job Title": "Performing Arts and Campus Production Manager",
+    "Overtime Pay": "$5,413.50",
+    "Total Gross Pay": "$47,287.34"
+  },
+  {
+    "Employee Name": "Richards,Dallas",
+    "Job Title": "Physician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,034.68"
+  },
+  {
+    "Employee Name": "Weber,Richard D",
+    "Job Title": "Plant Maintenance Technician",
+    "Overtime Pay": "$45.31",
+    "Total Gross Pay": "$33,092.67"
+  },
+  {
+    "Employee Name": "Adams,Riley D",
+    "Job Title": "Plumber",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$25,992.01"
+  },
+  {
+    "Employee Name": "Dreiling,Laverne J",
+    "Job Title": "Plumber - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,865.61"
+  },
+  {
+    "Employee Name": "Mason,Tisa A",
+    "Job Title": "President",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$265,000.81"
+  },
+  {
+    "Employee Name": "Stremel,Cary",
+    "Job Title": "Print Shop Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$56,148.94"
+  },
+  {
+    "Employee Name": "Luedders,Rebecca A.",
+    "Job Title": "Print Shop Supervisor",
+    "Overtime Pay": "$7,375.95",
+    "Total Gross Pay": "$43,720.37"
+  },
+  {
+    "Employee Name": "Aflatooni,Kayvan",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,853.98"
+  },
+  {
+    "Employee Name": "Bennett,Stephen Christopher",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$75,871.17"
+  },
+  {
+    "Employee Name": "Brinker,Gary D",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$94,759.78"
+  },
+  {
+    "Employee Name": "Britten,C Frederick",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$102,612.18"
+  },
+  {
+    "Employee Name": "Campbell,Keith E",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$120,478.32"
+  },
+  {
+    "Employee Name": "Duffy,Cheryl H",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$89,459.48"
+  },
+  {
+    "Employee Name": "Eigenmann,Connie S",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$68,947.62"
+  },
+  {
+    "Employee Name": "Ganstrom,Linda M",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,593.16"
+  },
+  {
+    "Employee Name": "Gillock,Eric T.",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$74,707.80"
+  },
+  {
+    "Employee Name": "Gnizak,Charles J",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$112,413.60"
+  },
+  {
+    "Employee Name": "Goertzen,Brent J",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$92,378.17"
+  },
+  {
+    "Employee Name": "Hammond,Edward H",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$134,300.41"
+  },
+  {
+    "Employee Name": "Hober,Christine L",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$122,779.18"
+  },
+  {
+    "Employee Name": "Hutchison,Sharla N",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,291.43"
+  },
+  {
+    "Employee Name": "Johansen,Thomas C",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$124,124.30"
+  },
+  {
+    "Employee Name": "Kandt,Gregory K",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$99,252.75"
+  },
+  {
+    "Employee Name": "Kulmala,Daniel W",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$87,561.50"
+  },
+  {
+    "Employee Name": "Levy,Patricia A",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$85,059.25"
+  },
+  {
+    "Employee Name": "Lisichenko,Richard",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$90,221.90"
+  },
+  {
+    "Employee Name": "Majidi,Mehdi",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,884.38"
+  },
+  {
+    "Employee Name": "Martin,Mary C",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$135,364.18"
+  },
+  {
+    "Employee Name": "Moody,Robert A",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$111,567.86"
+  },
+  {
+    "Employee Name": "Packauskas,Richard J",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$79,296.04"
+  },
+  {
+    "Employee Name": "Patrick,Carol L",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$99,091.08"
+  },
+  {
+    "Employee Name": "Raacke,John D",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$122,178.17"
+  },
+  {
+    "Employee Name": "Riazi-Kermani,Mohammad",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$96,002.71"
+  },
+  {
+    "Employee Name": "Rice,Eugene T",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$98,548.16"
+  },
+  {
+    "Employee Name": "Sanders,Kathleen J",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$121,224.33"
+  },
+  {
+    "Employee Name": "Schmierbach,Amy J",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$69,894.45"
+  },
+  {
+    "Employee Name": "Scott,Pauline M",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$74,136.84"
+  },
+  {
+    "Employee Name": "Sherman,Gordon K",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$73,796.32"
+  },
+  {
+    "Employee Name": "Singleton,Carl S",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$95,342.78"
+  },
+  {
+    "Employee Name": "Squires,Josephine",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$101,064.75"
+  },
+  {
+    "Employee Name": "Stark,William J",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$103,567.40"
+  },
+  {
+    "Employee Name": "Sun,Jian",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$65,561.34"
+  },
+  {
+    "Employee Name": "Thumsujarit,Chaiwat",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$107,944.84"
+  },
+  {
+    "Employee Name": "Vaz,Pelgy",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$106,155.16"
+  },
+  {
+    "Employee Name": "Walizer,Beth R",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$144,688.04"
+  },
+  {
+    "Employee Name": "Weaver,Brett E.",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$67,997.26"
+  },
+  {
+    "Employee Name": "Young,Lanee M",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$101,426.45"
+  },
+  {
+    "Employee Name": "Zeng,Hong Biao",
+    "Job Title": "Professor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$107,190.29"
+  },
+  {
+    "Employee Name": "Feltenberger,Richard K",
+    "Job Title": "Program Director, SBDC",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$79,144.03"
+  },
+  {
+    "Employee Name": "Tomecek,JoAnn A",
+    "Job Title": "Program Planner/Analyst - USS",
+    "Overtime Pay": "$9,441.43",
+    "Total Gross Pay": "$52,782.26"
+  },
+  {
+    "Employee Name": "Gerstner,Wayne A",
+    "Job Title": "Purchasing and Warehouse Manager - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,944.13"
+  },
+  {
+    "Employee Name": "Herrman,Kathy A",
+    "Job Title": "Purchasing Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$75,434.15"
+  },
+  {
+    "Employee Name": "Hammerschmidt,Shawn M.",
+    "Job Title": "Purchasing Specialist - USS",
+    "Overtime Pay": "$101.06",
+    "Total Gross Pay": "$32,890.11"
+  },
+  {
+    "Employee Name": "Ditter,Traci D",
+    "Job Title": "Registered Nurse",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,213.80"
+  },
+  {
+    "Employee Name": "McCord,Amanda R",
+    "Job Title": "Registered Nurse",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,194.82"
+  },
+  {
+    "Employee Name": "Karlin,Craig E",
+    "Job Title": "Registrar",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$86,124.24"
+  },
+  {
+    "Employee Name": "Maxwell,Jacqueline E",
+    "Job Title": "Registrar Program Specialist - USS",
+    "Overtime Pay": "$187.74",
+    "Total Gross Pay": "$37,176.54"
+  },
+  {
+    "Employee Name": "Noland,Morgan A",
+    "Job Title": "Research Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,605.30"
+  },
+  {
+    "Employee Name": "Walker,Michael S",
+    "Job Title": "Research Scholar",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$78,905.00"
+  },
+  {
+    "Employee Name": "Rose,Suzanne D",
+    "Job Title": "Residence Hall Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,591.14"
+  },
+  {
+    "Employee Name": "Stegall,Ashley N",
+    "Job Title": "Residence Hall Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,316.35"
+  },
+  {
+    "Employee Name": "Schnack Jr.,Raymond C",
+    "Job Title": "Residential Life Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$3,234.82"
+  },
+  {
+    "Employee Name": "Bollig,David W",
+    "Job Title": "Residential Life Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,992.51"
+  },
+  {
+    "Employee Name": "Rundle,Sue Ann",
+    "Job Title": "SBDC Program Specialist",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,968.05"
+  },
+  {
+    "Employee Name": "Paige,Leslie Z",
+    "Job Title": "Scholarship and Sponsored Projects Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$72,546.67"
+  },
+  {
+    "Employee Name": "Allacher,Kristin K",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$29,628.80"
+  },
+  {
+    "Employee Name": "Atwater,Elizabeth R",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$29,628.80"
+  },
+  {
+    "Employee Name": "Barratt,Amber L",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,865.60"
+  },
+  {
+    "Employee Name": "Cason,Renee M",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,473.60"
+  },
+  {
+    "Employee Name": "Dreher,Dawn S",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,928.05"
+  },
+  {
+    "Employee Name": "Ford,Oveta R",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,657.60"
+  },
+  {
+    "Employee Name": "Gilmore,Janie R",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$29,628.80"
+  },
+  {
+    "Employee Name": "Gist,Sarah Renee",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,134.40"
+  },
+  {
+    "Employee Name": "Harman,Rachel L",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,510.43"
+  },
+  {
+    "Employee Name": "Harris,Caylan C",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,657.60"
+  },
+  {
+    "Employee Name": "Lagree,Kelly M",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$15,528.51"
+  },
+  {
+    "Employee Name": "Mayers,Melissa J",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$172.32",
+    "Total Gross Pay": "$30,175.52"
+  },
+  {
+    "Employee Name": "Meder,Amy L",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$2,134.08",
+    "Total Gross Pay": "$32,791.69"
+  },
+  {
+    "Employee Name": "Newkirk,Caitlyn D",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$13,085.30"
+  },
+  {
+    "Employee Name": "Niblock,Jenna D",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$29,608.00"
+  },
+  {
+    "Employee Name": "Richecky,Amy J",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$30,657.60"
+  },
+  {
+    "Employee Name": "Sargent,Lauren T",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,558.40"
+  },
+  {
+    "Employee Name": "Stoppel,Kylie K",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$16,687.22"
+  },
+  {
+    "Employee Name": "Wetzel,Ashley V",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$22,335.67"
+  },
+  {
+    "Employee Name": "Whitmer,Jennifer L",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,558.40"
+  },
+  {
+    "Employee Name": "Williams,Haley R",
+    "Job Title": "Senior Administrative Assistant",
+    "Overtime Pay": "$585.00",
+    "Total Gross Pay": "$7,954.64"
+  },
+  {
+    "Employee Name": "Baker,Rhonda A.",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,140.80"
+  },
+  {
+    "Employee Name": "Basgall,Elizabeth A.",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,225.60"
+  },
+  {
+    "Employee Name": "Duffey,Patricia A",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$38,153.61"
+  },
+  {
+    "Employee Name": "Gottschalk,Jacqueline K",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,830.43"
+  },
+  {
+    "Employee Name": "Huser,Cynthia A",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,267.20"
+  },
+  {
+    "Employee Name": "Kepka,Linda M.",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$41,204.80"
+  },
+  {
+    "Employee Name": "Lynch,Tricia M",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,822.41"
+  },
+  {
+    "Employee Name": "Meier,Kathleen M",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,244.85"
+  },
+  {
+    "Employee Name": "Penner,Linda K",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$841.35",
+    "Total Gross Pay": "$33,526.15"
+  },
+  {
+    "Employee Name": "Rudell,Melissa A",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$39,478.40"
+  },
+  {
+    "Employee Name": "Schmeidler,Beverly L",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$32,684.80"
+  },
+  {
+    "Employee Name": "Schumacher,Gloria A",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,504.00"
+  },
+  {
+    "Employee Name": "Unruh,Beverly A",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$42,244.81"
+  },
+  {
+    "Employee Name": "Wear-Leiker,Jodie J.",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,892.84"
+  },
+  {
+    "Employee Name": "Weigel,Michelle A",
+    "Job Title": "Senior Administrative Assistant - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,078.45"
+  },
+  {
+    "Employee Name": "Gross,Lee M",
+    "Job Title": "Senior Applications Developer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$74,567.49"
+  },
+  {
+    "Employee Name": "Key,Nastassja",
+    "Job Title": "Senior Applications Developer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$60,463.28"
+  },
+  {
+    "Employee Name": "Offutt,Neil",
+    "Job Title": "Senior Applications Developer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$65,535.81"
+  },
+  {
+    "Employee Name": "Sauer,Kevin",
+    "Job Title": "Senior Applications Developer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$65,778.88"
+  },
+  {
+    "Employee Name": "Tao,Minghao",
+    "Job Title": "Senior Blackboard Support Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,803.20"
+  },
+  {
+    "Employee Name": "Kaba,John J",
+    "Job Title": "Senior Database Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$82,629.92"
+  },
+  {
+    "Employee Name": "Roe,Aaron G",
+    "Job Title": "Server Operations Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$58,643.54"
+  },
+  {
+    "Employee Name": "Bartlett,Kirby D",
+    "Job Title": "Shuttle Bus Driver",
+    "Overtime Pay": "$365.42",
+    "Total Gross Pay": "$8,117.37"
+  },
+  {
+    "Employee Name": "Bartlett,Susan M",
+    "Job Title": "Shuttle Bus Driver",
+    "Overtime Pay": "$76.13",
+    "Total Gross Pay": "$2,918.13"
+  },
+  {
+    "Employee Name": "Dechant,Gary D",
+    "Job Title": "Shuttle Bus Driver",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$12,727.12"
+  },
+  {
+    "Employee Name": "Schmidt,Greg A",
+    "Job Title": "Shuttle Bus Driver",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$4,796.69"
+  },
+  {
+    "Employee Name": "Tinkel,Louis J",
+    "Job Title": "Shuttle Bus Driver",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$8,911.43"
+  },
+  {
+    "Employee Name": "Disney,Daniel R",
+    "Job Title": "Skilled Trades Supervisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,554.43"
+  },
+  {
+    "Employee Name": "Weigel,Blake J",
+    "Job Title": "Skilled Trades Supervisor",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$48,679.51"
+  },
+  {
+    "Employee Name": "Hansen,Trenton J",
+    "Job Title": "Skilled Trades Supervisor - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,374.82"
+  },
+  {
+    "Employee Name": "Weigel,Roger L",
+    "Job Title": "Skilled Trades Supervisor - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,706.63"
+  },
+  {
+    "Employee Name": "Phillips,Bryan R",
+    "Job Title": "Skilled Trades Technician, Construction",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,510.48"
+  },
+  {
+    "Employee Name": "Basgall,Stephen L.",
+    "Job Title": "Skilled Trades Technician, Construction - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,059.20"
+  },
+  {
+    "Employee Name": "Dreher,Neal A.",
+    "Job Title": "Skilled Trades Technician, Construction - USS",
+    "Overtime Pay": "$97.86",
+    "Total Gross Pay": "$34,176.40"
+  },
+  {
+    "Employee Name": "Dreiling,Jerome",
+    "Job Title": "Skilled Trades Technician, Construction - USS",
+    "Overtime Pay": "$231.72",
+    "Total Gross Pay": "$35,900.63"
+  },
+  {
+    "Employee Name": "Grieve,Mark A",
+    "Job Title": "Skilled Trades Technician, Construction - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,037.06"
+  },
+  {
+    "Employee Name": "Jerauld,Eldon H.",
+    "Job Title": "Skilled Trades Technician, Construction - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,940.84"
+  },
+  {
+    "Employee Name": "Murphy,Gary A",
+    "Job Title": "Skilled Trades Technician, Construction - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,932.80"
+  },
+  {
+    "Employee Name": "Klein,Clinton J",
+    "Job Title": "Skilled Trades Technician, Plant Operations",
+    "Overtime Pay": "$174.01",
+    "Total Gross Pay": "$31,829.81"
+  },
+  {
+    "Employee Name": "Mermis,Keith E",
+    "Job Title": "Skilled Trades Technician, Plant Operations",
+    "Overtime Pay": "$65.25",
+    "Total Gross Pay": "$27,969.00"
+  },
+  {
+    "Employee Name": "Parsons,Jacob A",
+    "Job Title": "Skilled Trades Technician, Plant Operations",
+    "Overtime Pay": "$43.50",
+    "Total Gross Pay": "$24,263.30"
+  },
+  {
+    "Employee Name": "Relaford,Scott J",
+    "Job Title": "Skilled Trades Technician, Plant Operations",
+    "Overtime Pay": "$22.79",
+    "Total Gross Pay": "$32,717.16"
+  },
+  {
+    "Employee Name": "Legleiter,Earl F",
+    "Job Title": "SMEI Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,123.02"
+  },
+  {
+    "Employee Name": "Prickett,Ryan M",
+    "Job Title": "Sports Information Representative",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,184.15"
+  },
+  {
+    "Employee Name": "Gasper-O'brien,Diane S",
+    "Job Title": "Staff Writer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,566.17"
+  },
+  {
+    "Employee Name": "Herl,Kristin K",
+    "Job Title": "Strategic Communication and Marketing Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,699.91"
+  },
+  {
+    "Employee Name": "Wittkorn,Philip D",
+    "Job Title": "Strategic Partnerships Program Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,002.74"
+  },
+  {
+    "Employee Name": "Lonnon,Dane M",
+    "Job Title": "Student Fiscal Services Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$50,620.49"
+  },
+  {
+    "Employee Name": "Schumacher,May S",
+    "Job Title": "Student Fiscal Services Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$71,126.28"
+  },
+  {
+    "Employee Name": "Adams,Lynn A",
+    "Job Title": "Student Health Center Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$84,717.96"
+  },
+  {
+    "Employee Name": "Blackmon,Johnae E",
+    "Job Title": "Student Programs Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$31,908.80"
+  },
+  {
+    "Employee Name": "Werth,Simone M",
+    "Job Title": "Student Programs Coordinator - USS",
+    "Overtime Pay": "$11,722.04",
+    "Total Gross Pay": "$57,131.00"
+  },
+  {
+    "Employee Name": "Fabin,Michael L",
+    "Job Title": "Systems Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,692.02"
+  },
+  {
+    "Employee Name": "Grammon,Gregory R",
+    "Job Title": "Systems Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$46,136.04"
+  },
+  {
+    "Employee Name": "Li,Wei",
+    "Job Title": "Systems Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,684.82"
+  },
+  {
+    "Employee Name": "Lynd,Trey W",
+    "Job Title": "Systems Administrator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$49,172.80"
+  },
+  {
+    "Employee Name": "McGinnis,Penny S",
+    "Job Title": "Teacher",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$33,028.22"
+  },
+  {
+    "Employee Name": "Taggart,Sarah L",
+    "Job Title": "Technical Training Coordinator",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$43,174.40"
+  },
+  {
+    "Employee Name": "Hess,Scott B",
+    "Job Title": "Technology Support Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$51,737.91"
+  },
+  {
+    "Employee Name": "Munsch,Jordan M.",
+    "Job Title": "Telecommunications Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$62,231.30"
+  },
+  {
+    "Employee Name": "Burd,Kevin J",
+    "Job Title": "Telecommunications Technician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,208.01"
+  },
+  {
+    "Employee Name": "Cech,James J",
+    "Job Title": "Telecommunications Technician",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$47,208.00"
+  },
+  {
+    "Employee Name": "Bittel,Holly",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$350.00"
+  },
+  {
+    "Employee Name": "Bollig,Deborah",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$287.50"
+  },
+  {
+    "Employee Name": "Compton,Stan G.",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$17,950.00"
+  },
+  {
+    "Employee Name": "Frank,Katya J",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$14,913.55"
+  },
+  {
+    "Employee Name": "Lenser,Terri",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$2,625.00"
+  },
+  {
+    "Employee Name": "Patterson,Lane J",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$45,992.06"
+  },
+  {
+    "Employee Name": "Schulte,Jordan N",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$7,365.35"
+  },
+  {
+    "Employee Name": "Shelburne,Edward Chase",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$13,512.12"
+  },
+  {
+    "Employee Name": "Unruh,Rachel G",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$10,453.42"
+  },
+  {
+    "Employee Name": "Walker,Grace L",
+    "Job Title": "Temporary Support Worker",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,477.50"
+  },
+  {
+    "Employee Name": "Schwien,Nicholas J",
+    "Job Title": "Tiger Media Network Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$63,542.87"
+  },
+  {
+    "Employee Name": "Heitmann,Russell W",
+    "Job Title": "Tiger Media Network News and Sports Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$40,376.46"
+  },
+  {
+    "Employee Name": "Schaffer,Amy L",
+    "Job Title": "University Compliance Officer and Deputy Title IX",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$53,832.01"
+  },
+  {
+    "Employee Name": "Howell,Eddie L",
+    "Job Title": "University Police Chief",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$75,802.12"
+  },
+  {
+    "Employee Name": "Denny,Clifford J",
+    "Job Title": "University Police Lieutenant",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$54,213.47"
+  },
+  {
+    "Employee Name": "Bradshaw,Kelly M",
+    "Job Title": "University Police Officer",
+    "Overtime Pay": "$1,706.95",
+    "Total Gross Pay": "$39,979.79"
+  },
+  {
+    "Employee Name": "Fleenor,Joshua S",
+    "Job Title": "University Police Officer",
+    "Overtime Pay": "$4,286.03",
+    "Total Gross Pay": "$45,029.80"
+  },
+  {
+    "Employee Name": "Gerard,Eric W",
+    "Job Title": "University Police Officer",
+    "Overtime Pay": "$1,530.32",
+    "Total Gross Pay": "$24,440.63"
+  },
+  {
+    "Employee Name": "Rorabaugh,David L",
+    "Job Title": "University Police Officer",
+    "Overtime Pay": "$3,181.50",
+    "Total Gross Pay": "$57,998.25"
+  },
+  {
+    "Employee Name": "Rupp,Jonathan K",
+    "Job Title": "University Police Officer",
+    "Overtime Pay": "$1,541.73",
+    "Total Gross Pay": "$35,385.61"
+  },
+  {
+    "Employee Name": "Sheely,Andrew S",
+    "Job Title": "University Police Officer",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$1,322.40"
+  },
+  {
+    "Employee Name": "Lang,Nathaniel D",
+    "Job Title": "University Police Sergeant",
+    "Overtime Pay": "$3,031.49",
+    "Total Gross Pay": "$52,353.46"
+  },
+  {
+    "Employee Name": "Beyers,Kurt",
+    "Job Title": "University Relations Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$56,179.81"
+  },
+  {
+    "Employee Name": "Ridgway,Mary A",
+    "Job Title": "University Relations Program Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$59,549.27"
+  },
+  {
+    "Employee Name": "Ruder,Earl F",
+    "Job Title": "University Web Content Manager",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$52,156.80"
+  },
+  {
+    "Employee Name": "Lee,Christopher J",
+    "Job Title": "Vehicle and Equipment Mechanic",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$36,147.23"
+  },
+  {
+    "Employee Name": "Barnett,Michael W",
+    "Job Title": "Vice President",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$183,390.99"
+  },
+  {
+    "Employee Name": "Linn,Joseph G",
+    "Job Title": "Vice President",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$156,334.78"
+  },
+  {
+    "Employee Name": "Cook,Kathleen E",
+    "Job Title": "Virtual College Assistant Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$55,708.91"
+  },
+  {
+    "Employee Name": "Michaelis,Michael W",
+    "Job Title": "Virtual College Director",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$80,750.97"
+  },
+  {
+    "Employee Name": "Penka,Bradley R",
+    "Job Title": "Visitor Services Representative - USS",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$34,085.84"
+  },
+  {
+    "Employee Name": "Arensdorf,Jill R",
+    "Job Title": "VP Academic Affairs / Provost",
+    "Overtime Pay": "$0.00",
+    "Total Gross Pay": "$92,887.26"
+  },
+  {
+    "Employee Name": "Ding,Meng",
+    "Job Title": "Web Content Developer",
+    "Overtime Pay": "$18.57",
+    "Total Gross Pay": "$12,433.77"
+  }
+]
